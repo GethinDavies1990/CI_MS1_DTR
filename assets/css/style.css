@@ -73,3 +73,45 @@
     background: #68BA88;
     text-decoration: none;
   }
+
+  /* Testimonial */
+
+.testimonial-section{
+    background-color: #F2B613;
+    padding-top: 10px;
+    padding-bottom: 0;
+}
+
+.testimonial-section h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5em;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.testimonial h3{
+    display: inline-block;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+
+}    
+
+.testimonial-image{
+    height: 125px;
+    border-radius: 50%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+.testimonial-section p{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    font-style: italic;
+
+}
