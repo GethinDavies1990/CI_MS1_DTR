@@ -164,6 +164,16 @@
     background-color: #68BA88;
 }
 
+/* Events section */
+
+.events-section {
+    background-color: #F2B613;
+    height: 500px;
+}
+
+.cards-homepage{
+    margin-top: 0;
+}
 /* How to find us */
 
 .how-to-find-us-section{
@@ -205,18 +215,18 @@ address {
 }
 
 #footer-img {
-    height: 150px;
+    height: 100px;
     width: auto;
     margin: 0 auto;
     padding-top: 30px;
+    padding-left: 30px;
 }
 
 footer h5{
     color: #F2B613;
     font-size: 2.5em;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .social {
@@ -224,9 +234,9 @@ footer h5{
 }
 .social-links {
     color: #F2B613;
-    font-size: 2em;
+    font-size: 1.5em;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     padding-right: 30px;
     padding-left: 30px;
 }
