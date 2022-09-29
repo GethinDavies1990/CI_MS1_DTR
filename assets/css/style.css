@@ -1,0 +1,22 @@
+/* Body */
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 3.5em;
+}
+
+/* Nav */
+
+.navbar-brand img {
+    height: 50px;
+    margin-left: 10px;
+}
+
+.nav-item a {
+    color: #F2B613;
+}
+
+.nav-item a:hover {
+    color: #68BA88;
+}
