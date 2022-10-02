@@ -190,7 +190,7 @@ iframe {
 
 
 address {
-    font-family: 'Source';font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.5em;
     font-weight: 600;
     padding-left: 30px;
@@ -200,44 +200,67 @@ address {
 
 /* Book a Table Form */
 
+.form-section {
+    height: 1000px;
+    background-color: #F2B613;
+}
+
 .form-header h1{
     font-family: 'Poppins', sans-serif;
     font-size: 2.5rem;
     font-weight: 600;
     color: #212529;
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form-container{
+    background-color: #212529;
+    width: 60%;
+    color: #F2B613;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 10px;
+
+}
+.client-details{
+    margin-top: 10px;
+    font-family: 'Source Pro Sans',sans-serif;
+    font-size: 1rem;
+    padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-.form-section{
-    background-color: #F2B613;
-    height: 500px;
-    width: 100%;
+input {
+    width: 40%;
+    border-radius: 6px;
 }
 
-.form-container{
-    width: 50%;
-    height: 450px;
-    background-color: #212529;
-    margin: 10px auto 10px;
-    padding-top: 10px;
+input:hover{
+    border-color: #F2B613;
+}
+
+.form-button {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
     border-radius: 10px;
-    box-sizing: border-box;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-}
-
-
-label {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.2rem;
-    font-weight: 400;
-    color: #F2B613;
-    padding: 5px;
-}
-
+    font-weight: 600;
+    color: #212529;
+    font-size: 1.5em;
+    background: #F2B613;
+    padding: 12px 25px 12px 25px;
+    margin: 10px auto;
+    border: solid #212529 2px;
+    text-decoration: none; 
+  }
+  
+  .form-button:hover {
+    background: #68BA88;
+    text-decoration: none;
+  }
 
 /* Footer */
 

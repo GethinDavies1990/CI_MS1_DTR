@@ -63,24 +63,26 @@
             <h1>Need to Book a Table?</h1>
         </div>
         <div class="form-container">
-            <form>
-                <label for="fname">First name:</label><br>
-                <input type="text" id="fname" name="fname"><br>
-                <label for="lname">Last name:</label><br>
-                <input type="text" id="lname" name="lname"><br>
-                <label for="tel-num">Telephone:</label><br>
-                <input type="tel" id="tel-num" name="tel-num"><br>
-                <label for="email">Email:</label><br>
-                <input type="email" id="email" name="email"><br>
-                <label for="num-people">How Many People:</label><br>
-                <input type="number" id="num-people" name="num-people"><br>
-                <label for="date/time">Date & Time:</label><br>
-                <input type="datetime-local" id="date/time" name="date/time"><br>
-                <label for="special-req">Special Dietary Requirements:</label><br>
-                <textarea rows="3" cols="30">Do You Have any Special Dietary Requirements?  
+            <div client-details>
+                <form>
+                    <label for="fname" class="client-details">First name:</label><br>
+                    <input type="text" id="fname" name="fname"><br>
+                    <label for="lname"class="client-details">Last name:</label><br>
+                    <input type="text" id="lname" name="lname"><br>
+                    <label for="tel-num"class="client-details">Telephone:</label><br>
+                    <input type="tel" id="tel-num" name="tel-num"><br>
+                    <label for="email"class="client-details">Email:</label><br>
+                    <input type="email" id="email" name="email"><br>
+                    <label for="num-people"class="client-details">How Many People:</label><br>
+                    <input type="number" id="num-people" name="num-people"><br>
+                    <label for="date/time"class="client-details">Date & Time:</label><br>
+                    <input type="datetime-local" id="date/time" name="date/time"><br>
+                    <label for="special-req"class="client-details">Special Dietary Requirements:</label><br>
+                    <textarea rows="3" cols="30">Do You Have any Special Dietary Requirements?  
                 </textarea><br>
-                <button type="submit" form="form1" value="Submit">Book Now</button>
-            </form>
+                    <button class="form-button"type="submit" form="form1" value="Submit">Book Now</button>
+                </form>
+            </div>
         </div>
     </section>
 
