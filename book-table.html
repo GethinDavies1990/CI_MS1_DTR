@@ -39,7 +39,7 @@
                 <div class="navbar-nav">
                     <ul class="nav">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                            <a class="nav-link" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="index.html#our-story">Our Story</a>
@@ -51,7 +51,7 @@
                             <a class="nav-link" href="whats-on.html">What's On?</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="book-table.html">Book Table</a>
+                            <a class="nav-link active" aria-current="page" href="book-table.html">Book Table</a>
                         </li>
                     </ul>
                 </div>
@@ -59,19 +59,27 @@
         </div>
     </nav>
     <section class="form-section">
+        <div class="form-header">
+            <h1>Need to Book a Table?</h1>
+        </div>
         <div class="form-container">
             <form>
                 <label for="fname">First name:</label><br>
                 <input type="text" id="fname" name="fname"><br>
                 <label for="lname">Last name:</label><br>
                 <input type="text" id="lname" name="lname"><br>
+                <label for="tel-num">Telephone:</label><br>
+                <input type="tel" id="tel-num" name="tel-num"><br>
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email"><br>
                 <label for="num-people">How Many People:</label><br>
                 <input type="number" id="num-people" name="num-people"><br>
                 <label for="date/time">Date & Time:</label><br>
                 <input type="datetime-local" id="date/time" name="date/time"><br>
                 <label for="special-req">Special Dietary Requirements:</label><br>
-                <textarea rows="10" cols="40">Do You Have any Special Dietary Requirements?  
-                </textarea>
+                <textarea rows="3" cols="30">Do You Have any Special Dietary Requirements?  
+                </textarea><br>
+                <button type="submit" form="form1" value="Submit">Book Now</button>
             </form>
         </div>
     </section>
