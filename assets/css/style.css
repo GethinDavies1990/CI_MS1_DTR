@@ -119,10 +119,30 @@
 
 /* Our Story Carousel */
 
+.our-story-item{
+    height: 480px;
 
-.carousel-item {
-    height: 32rem;
-    background-color: #777;
+}
+
+.our-story-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.4);
+}
+
+.our-story-caption h5{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #F2B613;
+    padding-bottom: 80px;
+}
+
+.our-story-caption p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.5rem;
+    color: #F2B613;
+    padding-bottom: 80px;
 }
 
 
