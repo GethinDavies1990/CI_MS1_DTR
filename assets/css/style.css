@@ -121,7 +121,6 @@
 
 .our-story-item{
     height: 480px;
-
 }
 
 .our-story-img{
@@ -130,19 +129,29 @@
     filter: brightness(0.4);
 }
 
+.our-story-caption h3{
+    padding-bottom: 80px;
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.8rem;
+    font-weight: 600;
+    color: #68BA88;
+    position: relative;
+}
+
 .our-story-caption h5{
     font-family: 'Poppins', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 600;
     color: #F2B613;
-    padding-bottom: 80px;
+    padding-bottom: 5px;
 }
 
 .our-story-caption p{
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: #F2B613;
-    padding-bottom: 80px;
+    padding-bottom: 50px;
 }
 
 
