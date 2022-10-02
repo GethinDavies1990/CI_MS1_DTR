@@ -119,29 +119,33 @@
 
 /* Our Story Carousel */
 
+.carousel-inner{
+    background-color: #F2B613;
+}
+
 .our-story-item{
-    height: 480px;
+    height: 500px;
 }
 
 .our-story-img{
     height: 100%;
     object-fit: cover;
-    filter: brightness(0.4);
+    filter: brightness(0.3);
 }
 
 .our-story-caption h3{
-    padding-bottom: 80px;
-    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     font-family: 'Poppins', sans-serif;
     font-size: 2.8rem;
     font-weight: 600;
-    color: #68BA88;
+    color: #F2B613;
     position: relative;
 }
 
 .our-story-caption h5{
-    font-family: 'Poppins', sans-serif;
-    font-size: 2rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.8rem;
     font-weight: 600;
     color: #F2B613;
     padding-bottom: 5px;
@@ -150,6 +154,7 @@
 .our-story-caption p{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1rem;
+    font-style: italic;
     color: #F2B613;
     padding-bottom: 50px;
 }
@@ -157,31 +162,7 @@
 
 /* What's on section */
 
-.events-section h1 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 3.5em;
-    font-weight: 600;
-    color: #212529;
-    padding-top: 30px;
-    text-align: center;
-}
 
-.events-section {
-    background-color: #F2B613;
-    height: 500px;
-}
-
-.event-image {
-    height: 250px;
-    border-radius: 10px;
-    padding-left: 30px;
-    padding-top: 20px;
-}
-
-.events-section h3, p {
-    padding-left: 30px;
-    padding-top: 15px;
-}
 
 /* How to find us */
 
@@ -216,6 +197,16 @@ address {
     padding-top: 30px;
     position: relative;
 }
+
+/* Book a Table Form */
+
+.form-container{
+    width: 65%;
+    height: 500px;
+    background-color: red;
+    margin: 25px auto;
+}
+
 
 /* Footer */
 
