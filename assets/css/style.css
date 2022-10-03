@@ -7,11 +7,19 @@
 
 .nav-item a {
     color: #F2B613;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-right: 25px;
 }
 
 .nav-item a:hover {
     color: #68BA88;
 }
+
+
+
+/* Hero Section */
 
 .hero-section {
     background: url('/assets/images/beer-hero.webp') no-repeat center center fixed;
