@@ -288,6 +288,7 @@ input:hover{
 
 .footer-section {
     background-color: #212529;
+    justify-content: center;
 }
 
 #footer-img {
@@ -352,4 +353,6 @@ footer h5{
     padding-left: 50px;
     padding-bottom: 20px;
 }
+
+
 }
