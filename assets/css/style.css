@@ -234,6 +234,7 @@ address {
     color: #212529;
     text-align: center;
     padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 .form-container{
@@ -354,5 +355,9 @@ footer h5{
     padding-bottom: 20px;
 }
 
+.form-container{
+    width: 90%;
+
+}
 
 }
