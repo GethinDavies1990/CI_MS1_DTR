@@ -257,7 +257,9 @@ address {
 
 input {
     width: 40%;
+    border: 3px solid #68BA88;
     border-radius: 6px;
+
 }
 
 input:hover{
