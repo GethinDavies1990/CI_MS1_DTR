@@ -1,12 +1,15 @@
+/* Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
 
 /* body */
 
-body h1, h2, h3 {
-    font-family: 'Poppins', sans-serif;
-    font-weight: 600;   
+h1, h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
 }
 
-body h5, p {
+h5, h4, p {
     font-family: 'Source Sans Pro', sans-serif;
 }
 /* Nav */
@@ -100,9 +103,7 @@ body h5, p {
 }
 
 .testimonial-section h2{
-    font-family: 'Poppins', sans-serif;
     font-size: 2.5em;
-    font-weight: 600;
     text-align: center;
     padding-top: 15px;
     padding-bottom: 20px;
@@ -111,8 +112,6 @@ body h5, p {
 .testimonial h3{
     display: inline-block;
     padding-left: 20px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 600;
     padding-bottom: 15px;
 
 }    
@@ -128,7 +127,6 @@ body h5, p {
 .testimonial-section p{
     padding-bottom: 10px;
     padding-top: 10px;
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1em;
     font-style: italic;
 
@@ -153,16 +151,13 @@ body h5, p {
 .our-story-caption h3{
     padding-bottom: 30px;
     padding-top: 10px;
-    font-family: 'Poppins', sans-serif;
     font-size: 2.8rem;
-    font-weight: 600;
     color: #F2B613;
     position: relative;
 }
 
 .our-story-caption h5{
     font-size: 1.8rem;
-    font-weight: 600;
     color: #F2B613;
     padding-bottom: 5px;
 }
@@ -174,11 +169,6 @@ body h5, p {
     padding-bottom: 50px;
 }
 
-
-/* What's on section */
-
-
-
 /* How to find us */
 
 .how-to-find-us-section{
@@ -187,8 +177,6 @@ body h5, p {
 }
 
 .how-to-find-us-section h2{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 600;
     font-size: 3.5em;
     padding-left: 50px;
     padding-top: 30px;
@@ -196,7 +184,6 @@ body h5, p {
 
 .how-to-find-us-section h4{
     font-size: 1.5rem;
-    font-family: 'Source Sans Pro', sans-serif;
     padding-bottom: 10px;
 
 }
@@ -234,7 +221,6 @@ address {
 }
 
 .form-header h1{
-    font-family: 'Poppins', sans-serif;
     font-size: 2.5rem;
     font-weight: 600;
     color: #212529;
@@ -350,9 +336,6 @@ footer h5{
   }
 
   address {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.5em;
-    font-weight: 600;
     padding-left: 20px;
     padding-top: 20px;
 }
