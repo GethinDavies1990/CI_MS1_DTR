@@ -233,13 +233,12 @@ address {
     font-weight: 600;
     color: #212529;
     text-align: center;
-    padding-top: 30px;
     padding-bottom: 30px;
 }
 
 .form-container{
     background-color: #212529;
-    width: 60%;
+    width: 650px;
     color: #F2B613;
     text-align: center;
     margin: 0 auto;
@@ -256,7 +255,6 @@ address {
 }
 
 input {
-    width: 40%;
     border: 3px solid #68BA88;
     border-radius: 6px;
 
