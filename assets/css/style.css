@@ -1,3 +1,14 @@
+
+/* body */
+
+body h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;   
+}
+
+body h5, p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
 /* Nav */
 
 .navbar-brand img {
@@ -40,9 +51,7 @@
 }
 
 .callout h1 {
-    font-family: 'Poppins', sans-serif;
     font-size: 3.5em;
-    font-weight: 600;
     color: #F2B613;
     padding-top: 150px;
     padding-left: 50px;
@@ -51,7 +60,6 @@
 }
 
 .callout h3 {
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.5em;
     font-weight: 400;
     color: #F2B613;
@@ -153,7 +161,6 @@
 }
 
 .our-story-caption h5{
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.8rem;
     font-weight: 600;
     color: #F2B613;
@@ -161,7 +168,6 @@
 }
 
 .our-story-caption p{
-    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1rem;
     font-style: italic;
     color: #F2B613;
@@ -330,6 +336,7 @@ footer h5{
 }
 
 /* Media Queries */
+
 
 @media only screen and (max-width: 600px)
 {   
