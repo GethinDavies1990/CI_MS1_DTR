@@ -12,6 +12,7 @@ h1, h2, h3 {
 h5, h4, p {
     font-family: 'Source Sans Pro', sans-serif;
 }
+
 /* Nav */
 
 .navbar-brand img {
@@ -64,7 +65,6 @@ h5, h4, p {
 
 .callout h3 {
     font-size: 1.5em;
-    font-weight: 600;
     color: #F2B613;
     padding-left: 50px;
     padding-top: 0;
@@ -72,27 +72,7 @@ h5, h4, p {
 
 }
 
-.hero-button {
-    -webkit-border-radius: 10;
-    -moz-border-radius: 10;
-    border-radius: 10px;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 600;
-    color: #212529;
-    font-size: 1.5em;
-    background: #F2B613;
-    padding: 12px 25px 12px 25px;
-    border: solid #212529 2px;
-    text-decoration: none;
-    margin-top: 30px;
-    margin-left: 50px;
-    
-  }
-  
-  .hero-button:hover {
-    background: #68BA88;
-    text-decoration: none;
-  }
+
 
   /* Testimonial */
 
@@ -131,6 +111,34 @@ h5, h4, p {
     font-style: italic;
 
 }
+
+/* Button's */
+
+.button-main {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #212529;
+    font-size: 1.5em;
+    background: #F2B613;
+    padding: 12px 25px 12px 25px;
+    border: solid #212529 2px;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 50px;
+    
+  }
+  
+  .button-main:hover {
+    background: #68BA88;
+    text-decoration: none;
+  }
+
+  .button-form {
+    margin: 0 auto;
+  }
 
 /* Our Story Carousel */
 
@@ -222,7 +230,6 @@ address {
 
 .form-header h1{
     font-size: 2.5rem;
-    font-weight: 600;
     color: #212529;
     text-align: center;
     padding-bottom: 30px;
@@ -240,7 +247,7 @@ address {
 }
 .client-details{
     margin-top: 10px;
-    font-family: 'Source Pro Sans',sans-serif;
+    font-family: 'Source Pro Sans', sans-serif;
     font-size: 1rem;
     padding-left: 10px;
     padding-top: 10px;
@@ -256,26 +263,6 @@ input {
 input:hover{
     border-color: #F2B613;
 }
-
-.form-button {
-    -webkit-border-radius: 10;
-    -moz-border-radius: 10;
-    border-radius: 10px;
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 600;
-    color: #212529;
-    font-size: 1.5em;
-    background: #F2B613;
-    padding: 12px 25px 12px 25px;
-    margin: 10px auto;
-    border: solid #212529 2px;
-    text-decoration: none; 
-  }
-  
-  .form-button:hover {
-    background: #68BA88;
-    text-decoration: none;
-  }
 
 /* Footer */
 
@@ -332,7 +319,7 @@ footer h5{
 
 
     .how-to-find-us-section h4{
-    padding-bottom: 5px;
+        padding-bottom: 5px;
   }
 
   address {
