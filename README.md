@@ -15,30 +15,31 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 
 ![Nav Bar](assets/images/media/nav.png)
 
--__Hero Image__
+-__Hero Section__
 
+- The hero section includes a h1 which advertises the brewery making a new beer weekly and for visitors to visit to try these exciting new flavours.
 -The hero section includes a CTA button which will take the user to the book table form.
 -The image used is relevant to the website, including an ale and hops. hops are used in the craft beer scene to add exciting flavours to the beers.The image has an opaque overlay over the image to allow for the CTA button to be the main feature of this section to push user to book a table. 
 
 ![Hero Image](assets/images/media/hero.png)
 
 
+- __Testimonial Section__
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+- This section will allow the user to see the testimonial's of recent visitors of the tap room. 
+- It was styled using the rows and col classes with bootstrap to allow it to be responsive on all device size types.
+- The testimonials are fictional made up by myself, the images of the customers were taken from envato.
 
-- __Club Ethos Section__
+![testimonial image](assets/images/media/testimonial.png)
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+- __Our Story Section__
 
-- __Meetup Times section__
+  - This section showcases how the tap room started, this was styled with the bootstrap carousel.
+  - The carousel has indicators to show the user which slide image they are currently on and toggle switches to go to the next and previous image.
+  - Each carousel has a new image and new content to explain the growth the tap room has achieved.
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Our Story](assets/images/media/our-story.png)
 
 - __The Footer__ 
 
