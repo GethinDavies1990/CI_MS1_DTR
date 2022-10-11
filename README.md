@@ -2,23 +2,20 @@
 
 Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each week the brewery makes exciting new flavours and experiments these exciting new creation's with their punters. Duck's tap room's website will be useful to find the opening times of the establishment and also to get in touch to book a table. 
 
-## Features 
+- __Homepage__
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+  - The home page is split into 5 separate sections. Each section features a different UI component while keeping the branding consistent throughout the page. Each section is separated in blocks and is evidently noticeable. An ID tag was used for 'our story', 'How to find us' section to scroll the user to that point of the page.
 
-### Existing Features
 
-- __Navigation Bar__
+### Features
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+- __Navigation Menu__
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+  - Featured on all pages, the navigation is fully responsive on all devices. It includes the 'Duck's Taproom' logo, a link to the 'book-table.html'form. And ID links to the 'our-story.html and how-to-find-us.html'
 
-- __The landing page image__
+![Nav Bar](assets/images/media/nav.png)
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
