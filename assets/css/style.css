@@ -41,7 +41,7 @@ h5, h4, p {
 
 /* The opaque overlay was inspired by the code institute whiskey website */
 .hero-section {
-    background: url('/assets/images/beer-hero.webp') no-repeat center center fixed;
+    background: url('assets/images/beer-hero.webp') no-repeat center center fixed;
     background-size: cover;
     position: relative; 
     height: 500px;
