@@ -17,7 +17,6 @@ h5, h4, p {
     background-color: #F2B613;
 }
 
-
 /* Nav */
 
 .navbar-brand img {
@@ -34,8 +33,6 @@ h5, h4, p {
 .nav-item a:hover {
     color: #68BA88;
 }
-
-
 
 /* Hero Section */
 
@@ -76,8 +73,8 @@ h5, h4, p {
 }
 
   /* Testimonial */
-  /* The testimonial section was inspired by tindog website */ 
 
+  /* The testimonial section was inspired by tindog website */ 
   .testimonial-section h2, h3, p {
     color: #212529;
   } 
@@ -98,7 +95,6 @@ h5, h4, p {
     display: inline-block;
     padding-left: 20px;
     padding-bottom: 15px;
-
 }    
 
 .testimonial-image{
@@ -106,7 +102,6 @@ h5, h4, p {
     width: 100px;
     border-radius: 50%;
     display: inline-block;
-
 }
 
 .testimonial-section p{
@@ -135,7 +130,6 @@ h5, h4, p {
     text-decoration: none;
     margin-top: 30px;
     margin-left: 50px;
-    
   }
   
   .button-main:hover {
@@ -201,7 +195,6 @@ h5, h4, p {
     font-size: 1.5rem;
     padding-bottom: 10px;
     color: #212529;
-
 }
 
 .map {
