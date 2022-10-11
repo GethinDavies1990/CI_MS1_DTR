@@ -49,10 +49,11 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 
 ![Want to visit us](assets/images/media/how-to-find-us.png)
 
-- __Gallery__
+- __Footer__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The footer includes the taproom's logo and the social media icons, eac icon is a link to the respective's website. the links go directly to the social websites homepage. They include a aria attribute to allow users who use screen readers to understand what they are for. 
+
+![Footer](assets/images/media/footer.png)
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
