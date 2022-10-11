@@ -321,10 +321,10 @@ footer h5{
 /* Media Queries */
 
 
-@media only screen and (max-width: 600px)
+@media only screen and (max-width: 767px)
 {   
     .how-to-find-us-section{
-    height: 1000px;
+    height: 1050px;
 }
 
 
@@ -346,5 +346,14 @@ footer h5{
     width: 90%;
 
 }
+
+}
+
+@media only screen and (min-width:767px) and (max-width: 1023px) {
+
+    .testimonial h3{
+        padding-left: 10px;
+    
+    }    
 
 }
