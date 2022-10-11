@@ -314,6 +314,10 @@ footer h5{
     justify-content: center;
 }
 
+.copyright {
+    text-align: center;
+    padding-top: 20px;
+}
 /* Media Queries */
 
 
