@@ -37,6 +37,7 @@ h5, h4, p {
 /* Hero Section */
 
 /* The opaque overlay was inspired by the code institute whiskey website */
+/* Image credit: grafvision from envato elements */
 .hero-section {
     background: url('assets/images/beer-hero.webp') no-repeat center center fixed;
     background-size: cover;
