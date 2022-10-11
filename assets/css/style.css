@@ -225,13 +225,6 @@ address {
     padding-bottom: 5px;
 }
 
-.hr-rule{
-    width: 30%;
-    border: 8px dotted;
-    border-style: none none dotted;
-    padding-bottom: px;
-  }
-
 /* Book a Table Form */
 
 .form-section {
