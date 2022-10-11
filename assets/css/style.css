@@ -39,6 +39,7 @@ h5, h4, p {
 
 /* Hero Section */
 
+/* The opaque overlay was inspired by the code institute whiskey website */
 .hero-section {
     background: url('/assets/images/beer-hero.webp') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -78,6 +79,7 @@ h5, h4, p {
 }
 
   /* Testimonial */
+  /* The testimonial section was inspired by tindog website */ 
 
   .testimonial-section h2, h3, p {
     color: #212529;
@@ -119,6 +121,8 @@ h5, h4, p {
 }
 
 /* Button's */
+
+/* the buttons were both made using cssbuttoncreator.com */
 
 .button-main {
     -webkit-border-radius: 10;
