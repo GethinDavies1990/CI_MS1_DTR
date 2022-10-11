@@ -305,8 +305,15 @@ footer h5{
     padding-top: 20px;
 }
 
+/* Error 404 page */
+
 .error404-section {
     height: 500px;
+}
+
+.error404-section h1 {
+    text-align: center;
+    padding-top: 50px;
 }
 
 /* Media Queries */
