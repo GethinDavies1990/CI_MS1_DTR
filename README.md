@@ -38,15 +38,16 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
   - This section showcases how the tap room started, this was styled with the bootstrap carousel.
   - The carousel has indicators to show the user which slide image they are currently on and toggle switches to go to the next and previous image.
   - Each carousel has a new image and new content to explain the growth the tap room has achieved.
+  - Their is a container over the carousel to make the images have an opaque overlay. This was done so the content on each carousel item can stand out more against the image.
 
 ![Our Story](assets/images/media/our-story.png)
 
-- __The Footer__ 
+- __Want to Visit us section__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The 'Want to visit us' Section includes a google map through an embed link in a iframe element, it was placed in a div container to allow for it to be automatically resized on smaller devices.
+  - This section also includes some relevant information for the user, Address/email/telephone information in the case the user will need these details. 
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Want to visit us](assets/images/media/how-to-find-us.png)
 
 - __Gallery__
 
