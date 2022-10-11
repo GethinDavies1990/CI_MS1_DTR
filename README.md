@@ -2,7 +2,7 @@
 
 Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each week the brewery makes exciting new flavours and experiments these exciting new creation's with their punters. Duck's tap room's website will be useful to find the opening times of the establishment and also to get in touch to book a table. 
 
-![Mock up](assets/images/media/mock-up.png)
+![Mock up](docs/features/mock-up.png)
 
 - __Homepage__
 
@@ -15,7 +15,7 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 
   - Featured on all pages, the navigation is fully responsive on all devices. It includes the 'Duck's Taproom' logo, a link to the 'book-table.html'form. And ID links to the 'our-story.html and how-to-find-us.html'
 
-![Nav Bar](assets/images/media/nav.png)
+![Nav Bar](docs/features/nav.png)
 
 -__Hero Section__
 
@@ -23,7 +23,7 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 -The hero section includes a CTA button which will take the user to the book table form.
 -The image used is relevant to the website, including an ale and hops. hops are used in the craft beer scene to add exciting flavours to the beers.The image has an opaque overlay over the image to allow for the CTA button to be the main feature of this section to push user to book a table. 
 
-![Hero Image](assets/images/media/hero.png)
+![Hero Image](docs/features/hero.png)
 
 
 - __Testimonial Section__
@@ -32,7 +32,7 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 - It was styled using the rows and col classes with bootstrap to allow it to be responsive on all device size types.
 - The testimonials are fictional made up by myself, the images of the customers were taken from envato.
 
-![testimonial image](assets/images/media/testimonial.png)
+![testimonial image](docs/features/testimonial.png)
 
 
 - __Our Story Section__
@@ -42,20 +42,20 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
   - Each carousel has a new image and new content to explain the growth the tap room has achieved.
   - Their is a container over the carousel to make the images have an opaque overlay. This was done so the content on each carousel item can stand out more against the image.
 
-![Our Story](assets/images/media/our-story.png)
+![Our Story](docs/features/our-story.png)
 
 - __Want to Visit us section__ 
 
   - The 'Want to visit us' Section includes a google map through an embed link in a iframe element, it was placed in a div container to allow for it to be automatically resized on smaller devices.
   - This section also includes some relevant information for the user, Address/email/telephone information in the case the user will need these details. 
 
-![Want to visit us](assets/images/media/how-to-find-us.png)
+![Want to visit us](docs/features/how-to-find-us.png)
 
 - __Footer__
 
   - The footer includes the taproom's logo and the social media icons, eac icon is a link to the respective's website. the links go directly to the social websites homepage. They include a aria attribute to allow users who use screen readers to understand what they are for. 
 
-![Footer](assets/images/media/footer.png)
+![Footer](docs/features/footer.png)
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
