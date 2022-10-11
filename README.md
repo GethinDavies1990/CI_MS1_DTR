@@ -15,6 +15,13 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 
 ![Nav Bar](assets/images/media/nav.png)
 
+-__Hero Image__
+
+-The hero section includes a CTA button which will take the user to the book table form.
+-The image used is relevant to the website, including an ale and hops. hops are used in the craft beer scene to add exciting flavours to the beers.The image has an opaque overlay over the image to allow for the CTA button to be the main feature of this section to push user to book a table. 
+
+![Hero Image](assets/images/media/hero.png)
+
 
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
