@@ -102,10 +102,10 @@ h5, h4, p {
 }    
 
 .testimonial-image{
-    height: 125px;
+    height: 100px;
+    width: 100px;
     border-radius: 50%;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    display: inline-block;
 
 }
 
