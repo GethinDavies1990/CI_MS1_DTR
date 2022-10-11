@@ -200,9 +200,10 @@ h5, h4, p {
     padding-top: 30px;
 }
 
-.how-to-find-us-section h4{
+.how-to-find-us-section p{
     font-size: 1.5rem;
     padding-bottom: 10px;
+    color: #212529;
 
 }
 
