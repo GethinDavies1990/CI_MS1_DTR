@@ -2,6 +2,8 @@
 
 Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each week the brewery makes exciting new flavours and experiments these exciting new creation's with their punters. Duck's tap room's website will be useful to find the opening times of the establishment and also to get in touch to book a table. 
 
+![Mock up](assets/images/media/mock-up.png)
+
 - __Homepage__
 
   - The home page is split into 5 separate sections. Each section features a different UI component while keeping the branding consistent throughout the page. Each section is separated in blocks and is evidently noticeable. An ID tag was used for 'our story', 'How to find us' section to scroll the user to that point of the page.
