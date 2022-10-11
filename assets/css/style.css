@@ -309,13 +309,23 @@ footer h5{
 
 .error404-section {
     height: 500px;
+    text-align: center;
 }
 
 .error404-section h1 {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
+.error-button {
+    margin: 50px auto;
+    background-color: #212529;
+    color: #F2B613;
+}
+
+.error-button:hover {
+    color: #212529;
+}
 /* Media Queries */
 
 @media only screen and (max-width: 767px)
