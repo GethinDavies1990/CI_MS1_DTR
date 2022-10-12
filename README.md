@@ -4,6 +4,8 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 
 ![Mock up](docs/features/mock-up.png)
 
+[Live Website](https://gethindavies1990.github.io/CI_MS1_DTR/)
+
 - __Homepage__
 
   - The home page is split into 5 separate sections. Each section features a different UI component while keeping the branding consistent throughout the page. Each section is separated in blocks and is evidently noticeable. An ID tag was used for 'our story', 'How to find us' section to scroll the user to that point of the page.
