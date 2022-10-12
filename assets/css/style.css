@@ -181,14 +181,20 @@ h5, h4, p {
 /* Events Section */
 
 .event-section {
-    height: 360px;
-    position: relative;
+    height: 500px;
 }
 
-.event-img {
-    height: 100%;
-    width: 100%;
+.img-area {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
+
+.single-img img {
+    height: 400px;
+  }
 
 /* How to find us */
 
