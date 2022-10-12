@@ -178,6 +178,18 @@ h5, h4, p {
     padding-bottom: 50px;
 }
 
+/* Events Section */
+
+.event-section {
+    height: 360px;
+    position: relative;
+}
+
+.event-img {
+    height: 100%;
+    width: 100%;
+}
+
 /* How to find us */
 
 .how-to-find-us-section{
