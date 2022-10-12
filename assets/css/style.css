@@ -194,6 +194,11 @@ h5, h4, p {
 
 .single-img img {
     height: 400px;
+    border-radius: 10px;
+    border-color: #212529;
+    border-width: thick;
+    margin-top: 20px;
+    position: relative;
   }
 
 /* How to find us */
