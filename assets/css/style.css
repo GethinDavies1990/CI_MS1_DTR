@@ -189,7 +189,7 @@ h5, h4, p {
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content:space-around;
 }
 
 .single-img img {
