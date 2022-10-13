@@ -355,7 +355,7 @@ footer h5{
 @media only screen and (max-width: 767px)
 {   
     .hero-section {
-        background-size: 100%;
+        background-size: cover;
     }
     .how-to-find-us-section{
     height: 1050px;
