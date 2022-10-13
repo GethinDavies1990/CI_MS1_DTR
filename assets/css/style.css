@@ -39,10 +39,12 @@ h5, h4, p {
 /* Image credit: grafvision from envato elements */
 .hero-section {
     background: url('../images/beer-hero.webp') no-repeat center center fixed;
-    background-size: cover;
-    position: relative; 
-    height: 500px;
-    width: 100%;
+    background-repeat:no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    background-position:center;
 }
 
 .opaque-overlay {
@@ -354,9 +356,7 @@ footer h5{
 
 @media only screen and (max-width: 767px)
 {   
-    .hero-section {
-        background-size: cover;
-    }
+
     .how-to-find-us-section{
     height: 1050px;
 }
