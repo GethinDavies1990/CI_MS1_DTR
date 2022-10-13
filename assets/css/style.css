@@ -42,6 +42,7 @@ h5, h4, p {
     background-size: cover;
     position: relative; 
     height: 500px;
+    width: 100%;
 }
 
 .opaque-overlay {
