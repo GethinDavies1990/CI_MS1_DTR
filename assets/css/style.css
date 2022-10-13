@@ -42,6 +42,7 @@ h5, h4, p {
     background-size: cover;
     height: 100vh;
     position: relative;
+    width: 100%;
 
 }
 
@@ -356,6 +357,7 @@ footer h5{
 {   
     .hero-section {
        min-height: 30vh;
+       
     }
     .how-to-find-us-section{
     height: 1050px;
