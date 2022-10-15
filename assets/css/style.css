@@ -40,6 +40,7 @@ h5, h4, p {
 .hero-section {
     background: url('../images/beer-hero.webp');
     background-size: cover;
+    background-repeat: no-repeat;
     min-height: 500px;
     position: relative;
     width: 100%;
@@ -147,7 +148,7 @@ h5, h4, p {
 /* Our Story Carousel */
 
 .our-story-item{
-    min-height: 500px;
+    height: 500px;
 }
 
 .our-story-img{
@@ -244,7 +245,7 @@ address {
 /* Book a Table Form */
 
 .form-section {
-    height: 1000px;
+    min-height: 1000px;
     background-color: #F2B613;
 }
 
@@ -287,6 +288,7 @@ input:hover{
 .footer-section {
     background-color: #212529;
     align-items: center;
+    min-height: 300px;
 }
 
 #footer-img {
