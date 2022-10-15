@@ -17,6 +17,10 @@ h5, h4, p {
     background-color: #F2B613;
 }
 
+.text-yellow {
+    color: #F2B613;
+}
+
 /* Nav */
 
 .navbar-brand img {
@@ -195,7 +199,7 @@ h5, h4, p {
 }
 
 .dim-image {
-    filter: brightness(50%);
+    filter: brightness(90%);
 }
 
 .event-image-grid{
@@ -212,10 +216,9 @@ h5, h4, p {
     gap: var(--gap);
 }
 
-.test-div {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; 
+.event-image-grid h3 {
+    padding: 10px;
+    font-size: 2.5rem;
 }
 
 .event-img-main {
@@ -230,25 +233,25 @@ h5, h4, p {
 }
 
 .event-img-2 {
-    background-image: url("/assets/images/beer-pour.jpg");
+    background-image: url("/assets/images/beer-of-week.webp");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .event-img-3 {
-    background-image: url("/assets/images/beer-pour.jpg");
+    background-image: url("/assets/images/comedy-night.webp");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .event-img-4 {
-    background-image: url("/assets/images/beer-pour.jpg");
+    background-image: url("/assets/images/rocker.webp");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .event-img-5 {
-    background-image: url("/assets/images/beer-pour.jpg");
+    background-image: url("/assets/images/taco-tuesday.webp");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -431,6 +434,9 @@ footer h5{
     width: 90%;
 }
 
+.event-image-grid{
+    --num-cols: 1;
+}
 
 }
 
