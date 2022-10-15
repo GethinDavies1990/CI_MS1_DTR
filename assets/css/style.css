@@ -394,7 +394,9 @@ footer h5{
     width: 90%;
 }
 
-
+.event-image-grid{
+    --num-cols: 1;
+}
 }
 
 @media only screen and (min-width:767px) and (max-width: 1023px) {
@@ -402,4 +404,8 @@ footer h5{
     .testimonial h3{
         padding-left: 10px;
     }    
+
+    .event-image-grid{
+        --num-cols: 2;
+    }
 }
