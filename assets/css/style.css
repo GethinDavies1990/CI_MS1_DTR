@@ -184,6 +184,35 @@ h5, h4, p {
 
 /* Events Section */
 
+.event-section{
+    margin: 0;
+}
+
+.event-image-grid{
+    --gap: 16px;
+    --num-cols: 4;
+    --row-height: 300px;
+    box-sizing: border-box;
+    padding: var(--gap);
+    display: grid;
+    grid-template-columns: repeat(var(--num-cols) 1fr);
+    grid-auto-rows: var(--row-height);
+    gap: var(--gap);
+}
+
+.event-image-grid > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.event-image-grid-col-2 {
+    grid-column: span 2;
+}
+
+.event-image-grid-row-2 {
+    grid-row: span 2;
+}
 
 /* How to find us */
 
@@ -361,6 +390,10 @@ footer h5{
 
 .form-container{
     width: 90%;
+}
+
+.event-image-grid > img {
+    --num-cols: 1;
 }
 
 }
