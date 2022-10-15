@@ -194,6 +194,10 @@ h5, h4, p {
     padding-top: 30px;
 }
 
+.dim-image {
+    filter: brightness(50%);
+}
+
 .event-image-grid{
     --gap: 16px;
     --num-cols: 4;
@@ -208,20 +212,46 @@ h5, h4, p {
     gap: var(--gap);
 }
 
-.event-image-grid>img {
+.test-div {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: cover; 
 }
 
-.event-image-grid-col-2 {
+.event-img-main {
+    grid-row: span 2;
     grid-column: span 2;
 }
 
-.event-image-grid-row-2 {
-    grid-row: span 2;
+.event-img-1 {
+    background-image: url("/assets/images/beer-pour.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
+.event-img-2 {
+    background-image: url("/assets/images/beer-pour.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.event-img-3 {
+    background-image: url("/assets/images/beer-pour.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.event-img-4 {
+    background-image: url("/assets/images/beer-pour.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.event-img-5 {
+    background-image: url("/assets/images/beer-pour.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 /* How to find us */
 
@@ -401,9 +431,7 @@ footer h5{
     width: 90%;
 }
 
-.event-image-grid{
-    --num-cols: 1;
-}
+
 }
 
 @media only screen and (min-width:767px) and (max-width: 1023px) {
@@ -412,7 +440,4 @@ footer h5{
         padding-left: 10px;
     }    
 
-    .event-image-grid{
-        --num-cols: 2;
-    }
 }
