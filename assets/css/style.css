@@ -188,6 +188,12 @@ h5, h4, p {
     margin: 0;
 }
 
+.event-section h2{
+    font-size: 3.5em;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
 .event-image-grid{
     --gap: 16px;
     --num-cols: 4;
@@ -215,6 +221,7 @@ h5, h4, p {
 .event-image-grid-row-2 {
     grid-row: span 2;
 }
+
 
 /* How to find us */
 
