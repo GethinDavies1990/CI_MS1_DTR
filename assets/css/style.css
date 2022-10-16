@@ -196,6 +196,7 @@ h5, h4, p {
     font-size: 3.5em;
     padding-left: 50px;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .dim-image {
@@ -411,6 +412,15 @@ footer h5{
        min-height: 30vh;
        
     }
+
+    .callout h1, .callout h3  {
+        padding-left: 5px;  
+    }
+    
+    .button-main {
+        margin-left: 5px;
+      }
+    
     .how-to-find-us-section{
         min-height: 500px;
 }
@@ -436,7 +446,7 @@ footer h5{
         display: block;
 }
 
-.event-img-1, .event-img-2, .event-img-3, .event-img-4, .event-img-5 {
+    .event-img-1, .event-img-2, .event-img-3, .event-img-4, .event-img-5 {
     min-height: 300px;
     margin-bottom: 5px;
     overflow-x: hidden;
