@@ -190,6 +190,7 @@ h5, h4, p {
 
 .event-section{
     margin: 0;
+    min-width: 600px;
 }
 
 .event-section h2{
@@ -226,39 +227,31 @@ h5, h4, p {
     grid-column: span 2;
 }
 
-.event-img-1 {
-    background-image: url("../images/beer-pour.jpg");
+.event-img-1, .event-img-2, .event-img-3, .event-img-4, .event-img-5 {
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
+    height: 100%;
+}
+
+.event-img-1 {
+    background-image: url("../images/beer-pour.jpg");
 }
 
 .event-img-2 {
     background-image: url("../images/beer-of-week.webp");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
 }
 
 .event-img-3 {
     background-image: url("../images/comedy-night.webp");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
 }
 
 .event-img-4 {
     background-image: url("../images/rocker.webp");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
 }
 
 .event-img-5 {
     background-image: url("../images/taco-tuesday.webp");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
 }
 
 /* How to find us */
@@ -414,12 +407,13 @@ footer h5{
 
 @media only screen and (max-width: 767px)
 {   
+
     .hero-section {
        min-height: 30vh;
        
     }
     .how-to-find-us-section{
-    height: 1050px;
+    min-height: 500px;
 }
     .how-to-find-us-section h4{
     padding-bottom: 5px;
