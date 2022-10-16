@@ -428,7 +428,11 @@ footer h5{
       .our-story-caption h3{
         padding-bottom: 10px;
         padding-top: 10px;
-        font-size: 2.3rem;
+        font-size: 1.5rem;
+    }
+
+    .our-story-caption p, .our-story-caption h5{
+        font-size: 1.2rem;
     }
     
     .how-to-find-us-section{
