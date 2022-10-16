@@ -424,6 +424,12 @@ footer h5{
     .button-main {
         margin-left: 5px;
       }
+
+      .our-story-caption h3{
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-size: 2.3rem;
+    }
     
     .how-to-find-us-section{
         min-height: 500px;
