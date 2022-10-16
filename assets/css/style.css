@@ -227,11 +227,15 @@ h5, h4, p {
     grid-column: span 2;
 }
 
-.event-img-1, .event-img-2, .event-img-3, .event-img-4, .event-img-5 {
+.grid-image {
     background-size: cover;
     background-repeat: no-repeat;
     max-height: 100%;
     background-position: center;
+}
+
+.grid-image > h3:hover{
+    color: #68BA88;
 }
 
 .event-img-1 {
@@ -413,9 +417,10 @@ footer h5{
        
     }
 
-    .callout h1, .callout h3  {
-        padding-left: 5px;  
+    .primary-heading{
+        padding-left: 5px;
     }
+
     
     .button-main {
         margin-left: 5px;
@@ -442,11 +447,16 @@ footer h5{
         width: 90%;
 }
 
+    .testimonial h3{
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
     .event-image-grid{
         display: block;
 }
 
-    .event-img-1, .event-img-2, .event-img-3, .event-img-4, .event-img-5 {
+    .grid-image {
     min-height: 300px;
     margin-bottom: 5px;
     overflow-x: hidden;
