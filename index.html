@@ -8,6 +8,7 @@
     <meta name="description"
         content="Duck's Tap Room is a craft brewery releasing new beers weekly with exciting new experimental flavours">
     <title>Duck's Tap Room</title>
+    <!--Preloaded background images to improve LCP score on Lighthouse-->
     <link rel="preload" href="../images/beer-hero.webp" as="image">
     <link rel="preload" href="../images/beer-pour.webp" as="image">
     <link rel="preload" href="../images/beer-of-week.webp" as="image">
@@ -213,7 +214,7 @@
                         <label for="message" class="form-label">Message</label>
                         <textarea class="form-control" id="message" rows="6" name="message" required></textarea>
                     </div>
-                    <button class="button-contact" type="submit" class="btn btn-primary my-btn">Submit</button>
+                    <button type="submit" class="button-contact">Submit</button>
                 </form>
             </div>
             <div class="d-flex flex-column col-12 col-md-6 pe-0">
@@ -263,7 +264,6 @@
                     </div>
                 </div>
             </div>
-        </div>
         </div>
     </section>
     <!--Footer Section-->
