@@ -154,6 +154,26 @@ h5, h4, p {
     margin: 0 auto;
   }
 
+  .button-contact {
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    color: #212529;
+    font-size: 1.5em;
+    background: #F2B613;
+    padding: 12px 25px 12px 25px;
+    border: solid #212529 2px;
+    text-decoration: none;
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  .button-contact:hover {
+    background: #68BA88;
+    text-decoration: none;
+  }
 /* Our Story Carousel */
 
 .our-story-item{
