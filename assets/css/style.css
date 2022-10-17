@@ -21,6 +21,11 @@ h5, h4, p {
     color: #F2B613;
 }
 
+.grey-background {
+    background-color: #212529;
+    color: #F2B613;
+}
+
 /* Nav */
 
 .navbar-brand img {
@@ -261,39 +266,9 @@ h5, h4, p {
 /* How to find us */
 
 .how-to-find-us-section{
-    background-color: #F2B613;
     min-height: 600px;
 }
 
-.how-to-find-us-section h2{
-    font-size: 3.5em;
-    padding-left: 50px;
-    padding-top: 30px;
-}
-
-.how-to-find-us-section p{
-    font-size: 1.5rem;
-    padding-bottom: 10px;
-    color: #212529;
-}
-
-.map {
-    width: 100%;
-}
-
-address {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 1.5em;
-    font-weight: 600;
-    padding-left: 30px;
-    padding-top: 30px;
-    position: relative;
-}
-
-.how-to-find-us-section i{
-    padding-right: 20px;
-    padding-bottom: 5px;
-}
 
 /* Book a Table Form */
 
