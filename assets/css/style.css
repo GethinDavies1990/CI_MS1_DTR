@@ -287,8 +287,19 @@ h5, h4, p {
 
 .how-to-find-us-section{
     min-height: 600px;
+    text-align: left;
 }
 
+.how-to-find-us-section h2 {
+    font-size: 3.5em;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.contact-container {
+    padding: 50px 10px;
+}
 
 /* Book a Table Form */
 
