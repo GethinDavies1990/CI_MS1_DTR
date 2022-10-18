@@ -209,48 +209,16 @@ links to the Homepage, our story, Events, how to find us section using the ID ta
 ![Book a Table](docs/features/book-table.jpg)
 
 ### Footer
-- Features a short bio of the chef with an image of the chef on the left side
-- User stories covered: 11
+- Features the logo and social icons with links to their respected social media pages.
 
 ![Footer](docs/features/footer.jpg)
 
-### Menu 
-- Gives an overview of the menu in five sections: starters, main meals, kids meals, dessers, and wine.
-- Each section of the menu is accompanied with an image of one of the items form the menu
-- Features pricing
-- User stories covered: 2, 8
-
-![Menu](docs/features/feature-menu.jpg)
-
-### Image Gallery
-- Imagery of the restaurant arranged in a grid
-- User stories covered: 4
-
-![Gallery](docs/features/feature-gallery.jpg)
-
-### Promo Video
-- A YouTube video to promote the restaurant 
-- User stories covered: 4
-
-![Video](docs/features/feature-video.jpg)
-
-### Contact Form
-- A way for user to provide feedback
-- User stories covered: 9, 15
-
-![Contact Form](docs/features/feature-contact-form.jpg)
 
 ### Map
-- Shows the restaurant location on an embeded Google Map
-- User stories covered: 1, 12
+- Shows the taproom location on an embedded Google Map
 
-![Map](docs/features/feature-map.jpg)
+![Map](docs/features/map.jpg)
 
-### Info Box
-- Provides the user with information about the restaurant including addres, phone number, email, and the name of the owner
-- User stories covered: 7, 15
-
-![Info Box](docs/features/feature-info-box.jpg)
 
 ## Validation
 
