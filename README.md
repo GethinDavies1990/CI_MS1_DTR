@@ -1,17 +1,13 @@
 # Duck's Tap room
 
-Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each week the brewery makes exciting new flavours and experiments these exciting new creation's with their punters. Duck's tap room's website will be useful to find the opening times of the establishment and also to get in touch to book a table. 
+Developed by Gethin Davies
 
-![Mock up](docs/features/mock-up.png)
+![Mock up](docs/mock.jpg)
+
+Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each week the brewery makes exciting new flavours and experiments these exciting new creation's with their punters. Duck's tap room's website will be useful to find the opening times of the establishment and also to get in touch to book a table. It also showcases the week's events the Tap room has scheduled.
 
 [Live Website](https://gethindavies1990.github.io/CI_MS1_DTR/)
 
-# Bodelschwinger Hof
-(Developer: Ana Runje)
-
-![Mockup image](docs/am-i-responsive.jpg)
-
-[Live webpage](https://4n4ru.github.io/CI_MS1_BodelschwingherHof/)
 
 ## Table of Content
 
