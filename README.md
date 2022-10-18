@@ -16,11 +16,11 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     1. [Target Audience](#target-audience)
-    2. [User Requrements and Expectations](#user-requrements-and-expectations)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
     1. [Design Choices](#design-choices)
-    2. [Colour](#colours)
+    2. [Color](#colours)
     3. [Fonts](#fonts)
     4. [Structure](#structure)
     5. [Wireframes](#wireframes)
@@ -44,63 +44,59 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 ## Project Goals 
 
 ### User Goals
-- Finding a restaurant that offers a nice atmosphere and good food.
-- See a full menu with clear pricing.
-- Find information about the restaurant.
-- Find the location of the restaurant
+- Finding bar/pub/tap room that offers craft beers
+- Find the upcoming weeks events
+- Find information on the taproom
+- Find the location of the tap room
 
 ### Site Owner Goals
-- Increase in the number of customers.
-- Promote the bussines.
-- Provide a way for new and existing customers to contact the buissnes.
-- Provide essential information about the bussines to customers.
+- Increase in visitors to the taproom
+- Promote the business
+- Provide a way for new and existing customers to contact the business.
+- Provide essential information about the business to customers.
+- Provide the customer with a details related to the events taking place at the taproom
 
 ## User Experience
 
 ### Target Audience
-- People looking for a place to dine at
-- People looking to order take away
-- Groups of people looking for a place to carter a event
-- Small to medium wedding parties
+- People looking for a place to enjoy craft beers and great atmosphere
+- People looking for a place to meet with friends
 
-### User Requrements and Expectations
+### User Requirements and Expectations
 
 - A simple and intuitive navigation system
 - Quickly and easily find relevant information
 - Links and functions that work as expected
 - Good presentation and a visually appealing design regardless of screen size
-- An easy way to contact the bussines
+- An easy way to contact the business
 - Simple content that the user can skim read
 - Accessibility
 
 ### User Stories
 
 #### First-time User 
-1. As a first time user, I want to know where the restaurant is lokated
-2. As a first time user, I want to know the price range
-3. As a first time user, I want to know more about the restaurant
-4. As a first time user, I want to get a feel of what to expect at the restaurant
+1. As a first time user, I want to know where the tap room is located
+2. As a first time user, I want to know how to get in contact with the tap room
+3. As a first time user, I want to know more about about the taproom
+4. As a first time user, I want to find out what events they have on
 
 #### Returning User
-5. As a returning user, I want to see the Sunday meal offer
-6. As a returnign user, I want to know the opening times
-7. As a returning user, I want to find a phone number to call for reservation
-8. As a returning user, I want to see the menu
-9. As a returning user, I want to leave some comment, suggestion or message to the staff
-10. As a returning user, I want to find the restaurant on social media
-11. As a returning user, I want to know who is preparing the food
-12. As a returning user, I want to get directions to the restaurant
+5. As a returning user, I want to find a phone number to call to book a table
+6. As a returning user, I want to what events they have on
+7. As a returning user, I want know what the brew of the week is
+8. As a returning user, I want to find the tap room social handles
+9. As a returning user, I want to get directions to the tap room
 
 #### Site Owner 
-13. As the site owner, I want users to find news about upcoming events or changes in opening times
-14. As the site owner, I want users to get to know the restaurant 
-15. As the site owner, I want the users to be able to contact us
+10. As the site owner, I want users to find info about upcoming events
+11. As the site owner, I want users to get to know the tap room
+12. As the site owner, I want the users to be able to contact us
+13. As the site owner, I want the users to know what the brew of the week is
 
 ## Design
 
 ### Design Choices
-The webpage was designed with the feeling a customer might get while dining at the restaurant. It is calm, warm and inviting. 
-Some of the imagery on the page has a round shape with a border to resemble food served on a plate.
+The webpage was designed to be easy to navigate and eye catching with a nice contrast of colors to appeal to the customer, it was made to be fully responsive on all devices. 
 
 ### Colour
 For the colour sheme warm brown tones were chosen to match the images on the page and also the colour theme of the actual restaurant. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
