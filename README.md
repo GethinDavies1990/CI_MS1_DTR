@@ -106,10 +106,15 @@ The color scheme chosen was to reflect the tap rooms mascot duck, with a nice br
 
 
 ### Fonts
-Pinyon script with cursive as fallback was used for the logo to match the sign outside the restaurant. 
+Montserrat was used mainly for the headings within the website.
 <br>
-Montserrat was used for the body and Roboto for headings. Both fonts are considered dyslexia friendly.
+Source Sans Pro was used for the mostly the p elements in the website
 
+### Logo
+
+I found the logo of the duck online, and removed some parts which wasn't needed to make the logo 2 dimensional, I altered the colors to myself to match the tap rooms color pallette. the text on the logo was made by me using adobe illustrator.
+
+![logo](docs/features/ducks-brew-ver.1.webp)
 ### Structure
 The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
 The website consists of five separate pages: 
