@@ -165,39 +165,35 @@ The website consists of 2 separate pages with a total of 6 sections:
 ## Features
 The page consists of 2 pages and fourteen features
 
-### Logo and Navigation Bar
+## Navigation Bar
 - Featured on all two pages
 - The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes
 links to the Homepage, our story, Events, how to find us section using the ID tags, the book table link takes you to a separate page. The Navigation page is fixed to the top to always be present on scroll so if the user wants to navigate quickly to a different section they can do so. 
 - It allows users to easily navigate the page
 - The link for the page the user is currently on is highlighted in white, when the user scrolls over the other links the text will change color to highlight it is a clickable element.
 
-![Logo and navbar](docs/features/nav.jpg)
+![Nav Bar](docs/features/nav.jpg)
 
-### Carousel
-- Introduces the user to the restaurant with a small three picture slide show
-- Options for the user to navigate the slide show via back and forward arrows or indicators at the bottom
+### hero
+- Introduces the user to the tap room with a image showcasing a business that has great atmosphere
+- Includes a CTA (Call to action) button for the user to book a table
 
-![Carousel](docs/features/feature-carousel.jpg)
+![Hero Section](docs/features/hero.jpg)
 
-### News
-- Allowes the user to see upcoming events or any news about the restaurant
-- User stories covered: 13
+### Testimonials
+- The user instantly see's some customer testimonials of recent visits.
 
-![News](docs/features/feature-news.jpg)
+![Testimonial](docs/features/testimonial.jpg)
 
-### Meal-deal
-- Allowes users to see what meal-deal is available for the upcoming Sunday
-- User stories covered: 5
+### Our Story
+- Allowes users to see how the tap room was established and the growth it has undertaken up to the current year
 
-![Meal-deal](docs/features/feature-meal-deal.jpg)
+![Our Story](docs/features/our-story.jpg)
 
-### Footer
-- Featured on all five pages
-- Consists of three seperate sections: contact information, opening times, and social media links
-- User stories covered: 1, 6, 7, 10, 15
+### Events
+- The events section was made using a grid system, each grid square offers a new event for that week.
 
-![Footer](docs/features/feature-footer.jpg)
+![Events](docs/features/events.jpg)
 
 ### About Us
 - Gives a description of the restaurant and its facilities with a image of the front of the building on the right side
