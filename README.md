@@ -195,17 +195,18 @@ links to the Homepage, our story, Events, how to find us section using the ID ta
 
 ![Events](docs/features/events.jpg)
 
-### About Us
-- Gives a description of the restaurant and its facilities with a image of the front of the building on the right side
-- User stories covered: 3, 14
+### How to find us
+- Gives the user a contact box to submit a inquiry
+- The user is also able to see the google map of the business
+- The user can get access to the contact information
+- The user can find out the telephone number and email address 
 
-![About Us](docs/features/feature-about-us.jpg)
+![How to Find us](docs/features/how-to-find-us.jpg)
 
-### Customer reviews
-- Features a few reviews left by the restaurants customers on social media
-- User stories covered: 3
+### Book a Table
+- user is able to submit a from to reserve a space at he taproom
 
-![Reviews](docs/features/feature-reviews.jpg)
+![Reviews](docs/features/book-table.jpg)
 
 ### Meet the Chef
 - Features a short bio of the chef with an image of the chef on the left side
