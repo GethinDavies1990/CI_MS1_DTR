@@ -99,10 +99,10 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 The webpage was designed to be easy to navigate and eye catching with a nice contrast of colors to appeal to the customer, it was made to be fully responsive on all devices. 
 
 ### Colour
-For the colour sheme warm brown tones were chosen to match the images on the page and also the colour theme of the actual restaurant. To narrow down the colours I used Adobe Color. After deciding on the colour I tested them on WebAIM to make sure the contrast between them was right.
+The color scheme chosen was to reflect the tap rooms mascot duck, with a nice bright shade of green and bright yellow. Which is both present on the mascot. I went for the 60%–30%–10% color scheme, (60%-yellow, 30%-charcoal, 10%-green) I mainly chose the color of yellow to be present for the main pages of the website and the dark charcoal was used in the navigation bar and the footer of the website. I used the green color in little instances so they really pop in certain areas we ma want to draw the user to.
 <br>
 
-![Colour scheme](docs/features/color-palette.png)
+![Colour scheme](docs/features/color-pallete.png)
 
 
 ### Fonts
