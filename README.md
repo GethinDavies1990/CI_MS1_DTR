@@ -129,20 +129,20 @@ The website consists of 2 separate pages with a total of 6 sections:
 
 ### Wireframes
 
-<details><summary>Home</summary>
-<img src="docs/wireframes/wireframes-homepage.png">
+<details><summary>Hero</summary>
+<img src="docs/wireframes/wf-hero.jpg">
 </details>
-<details><summary>About</summary>
-<img src="docs/wireframes/wireframes-about.png">
+<details><summary>Testimonial</summary>
+<img src="docs/wireframes/wf-testimonial.jpg">
 </details>
-<details><summary>Menu</summary>
-<img src="docs/wireframes/wireframes-menu.png">
-</details>
-<details><summary>Gallery</summary>
-<img src="docs/wireframes/wireframes-gallery.png">
+<details><summary>Our Story</summary>
+<img src="docs/wireframes/wf-our-story.jpg">
 </details>
 <details><summary>Contact</summary>
-<img src="docs/wireframes/wireframes-contact.png">
+<img src="docs/wireframes/wf-contact.jpg">
+</details>
+<details><summary>Footer</summary>
+<img src="docs/wireframes/wf-footer.jpg">
 </details>
 
 ## Technologies Used
@@ -152,29 +152,27 @@ The website consists of 2 separate pages with a total of 6 sections:
 - CSS
 
 ### Frameworks & Tools
-- Bootstrap v5.0
+- Bootstrap v5.2.1
 - Git
 - GitHub
 - Gitpod
-- Tinypng
-- Paint<span>.</span>NET
+- Adobe Illustrator
 - Balsamiq
 - Google Fonts
-- Adobe Color
 - Font Awsome
 - Favicon<span>.</span>io
 
 ## Features
-The page consists of five pages and fourteen features
+The page consists of 2 pages and fourteen features
 
 ### Logo and Navigation Bar
-- Featured on all five pages
+- Featured on all two pages
 - The navbar is fully responsive and changes to a toggler (hamburger menu) on smaller screens and includes
-links to the Homepage, About page, Menu page, Gallery and Contact us page
+links to the Homepage, our story, Events, how to find us section using the ID tags, the book table link takes you to a separate page. The Navigation page is fixed to the top to always be present on scroll so if the user wants to navigate quickly to a different section they can do so. 
 - It allows users to easily navigate the page
-- The link for the page the user is currently on is highlighted 
+- The link for the page the user is currently on is highlighted in white, when the user scrolls over the other links the text will change color to highlight it is a clickable element.
 
-![Logo and navbar](docs/features/feature-logo-and-navbar.jpg)
+![Logo and navbar](docs/features/nav.jpg)
 
 ### Carousel
 - Introduces the user to the restaurant with a small three picture slide show
