@@ -115,14 +115,17 @@ Source Sans Pro was used for the mostly the p elements in the website
 I found the logo of the duck online, and removed some parts which wasn't needed to make the logo 2 dimensional, I altered the colors to myself to match the tap rooms color pallette. the text on the logo was made by me using adobe illustrator.
 
 ![logo](docs/features/ducks-brew-ver.1.webp)
+
 ### Structure
-The page is structured in a well know, recognizable, user friendly, and easy to learn way. Upon arriving to the website the user sees a familiar type of navigation bar with the restaurant logo on the left side and the navigation links to the right. 
-The website consists of five separate pages: 
-- A homepage with a sections for News and Sunday Meal Offers
-- An about page with the About Us and Meet the Chef
-- A menu page
-- A image gallery with images and video showcasing the general feel of the restaurant
-- A contact page with a contact form, a map and information about the bussines section
+
+The page is structured to be user friendly and only had two pages the index page and the book a table page.
+The website consists of 2 separate pages with a total of 6 sections: 
+- The index page includes a hero section with a CTA(call to action) for the user to book a table
+- A Testimonial section so new users can see past experiences from other users while visiting the tap room.
+- The our story section which details the birth of the tap room and its growth in recent years and how it became what it is.
+- An event section so the user can see what events take place on the given week.
+- A how to find us section which includes the business's address, google map and contact form information.
+- The book a table page, which includes a form the user can submit to reserve their space
 
 ### Wireframes
 
