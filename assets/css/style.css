@@ -50,7 +50,7 @@ h5, h4, p {
     background: url('../images/beer-hero.webp');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 500px;
+    height: 100vh;
     position: relative;
     width: 100%;
 
