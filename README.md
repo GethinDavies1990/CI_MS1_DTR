@@ -204,15 +204,15 @@ links to the Homepage, our story, Events, how to find us section using the ID ta
 ![How to Find us](docs/features/how-to-find-us.jpg)
 
 ### Book a Table
-- user is able to submit a from to reserve a space at he taproom
+- user is able to submit a form to reserve a space at he taproom
 
-![Reviews](docs/features/book-table.jpg)
+![Book a Table](docs/features/book-table.jpg)
 
-### Meet the Chef
+### Footer
 - Features a short bio of the chef with an image of the chef on the left side
 - User stories covered: 11
 
-![Meet the Chef](docs/features/feature-meet-the-chef.jpg)
+![Footer](docs/features/footer.jpg)
 
 ### Menu 
 - Gives an overview of the menu in five sections: starters, main meals, kids meals, dessers, and wine.
