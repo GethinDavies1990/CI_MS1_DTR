@@ -226,9 +226,6 @@ h5, h4, p {
     color: #212529;
 }
 
-.dim-image {
-    filter: brightness(90%);
-}
 
 .event-image-grid{
     --gap: 5px;
@@ -266,7 +263,10 @@ h5, h4, p {
 }
 
 .event-img-1 {
-    background-image: url("../images/beer-pour.webp");
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.9)), url("../images/beer-pour.webp");
+    background-size: cover;
+    max-height: 100%;
+    background-position: center;
 }
 
 .event-img-2 {
