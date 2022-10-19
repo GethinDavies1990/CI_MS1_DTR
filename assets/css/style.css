@@ -182,7 +182,7 @@ h5, h4, p {
 .our-story-img{
     height: 100%;
     object-fit: cover;
-    filter: brightness(0.3);
+    filter: brightness(0.2);
 }
 
 .our-story-caption h3, h4, p {
