@@ -224,11 +224,11 @@ links to the Homepage, our story, Events, how to find us section using the ID ta
 
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors no warnings to show.
-<details><summary>Home</summary>
+<details><summary>Home/Index</summary>
 <img src="docs/validation/validation-html-index.jpg">
 </details>
-<details><summary>About</summary>
-<img src="docs/validation/validation-html-about.jpg">
+<details><summary>Book Table</summary>
+<img src="docs/validation/validation-html-book-table.jpg">
 </details>
 
 
