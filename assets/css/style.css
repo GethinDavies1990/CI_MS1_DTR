@@ -64,7 +64,7 @@ h5, h4, p {
     margin-right: 0;
 }
 
-.callout h1, h3 {
+.callout h1, h2 {
     color: #F2B613;
 
 }
@@ -76,12 +76,11 @@ h5, h4, p {
     margin-bottom: 0;
 }
 
-.callout h3 {
-    font-size: 1.5em;
+.callout h2 {
+    font-size: 2em;
     padding-left: 50px;
     padding-top: 0;
     margin-top: 0;
-    color: #F2B613;
 }
 
   /* Testimonial */
@@ -186,7 +185,7 @@ h5, h4, p {
     filter: brightness(0.3);
 }
 
-.our-story-caption h3, h5, p {
+.our-story-caption h3, h4, p {
     color: #F2B613; 
 }
 
@@ -198,7 +197,7 @@ h5, h4, p {
     position: relative;
 }
 
-.our-story-caption h5{
+.our-story-caption h4{
     font-size: 1.8rem;
     color: #F2B613;
     padding-bottom: 5px;
@@ -429,7 +428,7 @@ footer h5{
        
     }
 
-    .callout h1, .callout h3, .event-section h2, .how-to-find-us-section h2{
+    .callout h1, .callout h2, .event-section h2, .how-to-find-us-section h2{
         padding-left: 5px;
     }
 
@@ -443,7 +442,7 @@ footer h5{
         font-size: 1.5rem;
     }
 
-    .our-story-caption p, .our-story-caption h5{
+    .our-story-caption p, .our-story-caption h4{
         font-size: 1.2rem;
     }
     
