@@ -305,6 +305,15 @@ h5, h4, p {
     padding-bottom: 10px;
 }
 
+.tel-number {
+    color: #F2B613;
+    font-weight: bold;
+}
+
+.tel-number:hover {
+    color: #68BA88;
+}
+
 .contact-container {
     padding: 20px 10px;
 }
