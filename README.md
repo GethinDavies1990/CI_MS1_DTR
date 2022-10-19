@@ -34,7 +34,7 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
+    6. [Browser compatibility](#browser-compatibility)
     7. [Testing user stories](#testing-user-stories)
 8. [Bugs](#Bugs)
 9. [Deployment](#deployment)
@@ -267,11 +267,11 @@ The website was tested on the following devices:
 
 In addition, the website was tested using Google Chrome Developer Tools Device Toggling option for all available device options.
 
-### Browser compatability
+### Browser compatibility
 The website was tested on the following browsers:
 - Google Chrome
 - Mozilla Firefox
-- Microsoft Egde
+- Microsoft Edge
 
 ### Testing user stories
 
