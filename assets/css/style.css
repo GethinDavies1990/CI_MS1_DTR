@@ -201,13 +201,15 @@ h5, h4, p {
     font-size: 1.8rem;
     color: #F2B613;
     padding-bottom: 5px;
+    font-weight: bold;
 }
 
 .our-story-caption p{
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-style: italic;
     color: #F2B613;
     padding-bottom: 50px;
+    font-weight: bold;
 }
 
 /* Events Section */
@@ -221,6 +223,7 @@ h5, h4, p {
     padding-left: 50px;
     padding-top: 30px;
     padding-bottom: 30px;
+    color: #212529;
 }
 
 .dim-image {
@@ -294,6 +297,7 @@ h5, h4, p {
     padding-left: 50px;
     padding-top: 20px;
     padding-bottom: 20px;
+    color: #212529;
 }
 
 .how-to-find-us-section h3 {
