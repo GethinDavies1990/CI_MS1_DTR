@@ -267,28 +267,28 @@ h5, h4, p {
 }
 
 .event-img-2 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url("../images/beer-of-week.webp");
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)), url("../images/beer-of-week.webp");
     background-size: cover;
     max-height: 100%;
     background-position: center;
 }
 
 .event-img-3 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url("../images/comedy-night.webp");
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)), url("../images/comedy-night.webp");
     background-size: cover;
     max-height: 100%;
     background-position: center;
 }
 
 .event-img-4 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url("../images/rocker.webp");
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)), url("../images/rocker.webp");
     background-size: cover;
     max-height: 100%;
     background-position: center;
 }
 
 .event-img-5 {
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9)), url("../images/taco-tuesday.webp");
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)), url("../images/taco-tuesday.webp");
     background-size: cover;
     max-height: 100%;
     background-position: center;
