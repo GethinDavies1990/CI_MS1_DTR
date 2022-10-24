@@ -283,30 +283,34 @@ The website was tested on the following browsers:
 4. As a first time user, I want to find out what events they have on
     * A user can find out what events are scheduled on the given week by selecting the 'Events' link in the navigation bar, and by scrolling to the events section of the website.
 
-#### Returning User
+## Returning User
 5. As a returning user, I want to find a phone number to call to book a table
+    * As user can find the telephone number to call to book a table by either selecting the link 'Book table' in the navigation bar, or by scrolling to the contact info on the page.
 6. As a returning user, I want to what events they have on
+    *  A user can find out what events are scheduled on the given week by selecting the 'Events' link in the navigation bar, and by scrolling to the events section of the website.
 7. As a returning user, I want know what the brew of the week is
+    * A user can find out what the brew of the week is on the given week by selecting the 'Events' link in the navigation bar, and by scrolling to the events section of the website.
 8. As a returning user, I want to find the tap room social handles
+    * A user can find the all the social handles of the business by scrolling to the footer of the website, this is on all web pages.
 9. As a returning user, I want to get directions to the tap room
+    * A user can find the location of the taproom by selecting the 'How to find us' link the navigation bar, and by scrolling through the homepage to the location of the map.
 
 
 ## Bugs
 
 | **Bug** | **Fix** |
 | ----------- | ----------- |
-| Home page link stays highlighted when visiting another page | Change active atribute to the correct page |
-| The user can submit a contact form input without a message | Add required attribute to message input field |
-| Navbar divides into two rows on xs screen size | Add a media query to remove the right margin of the logo in the navbar on xs screen |
-| Email overflows on xs screen size | Add a media query that makes the divs spread to 100% width on xs sreens to froce the content onto a seperate line |
-| When viewed on tablets, the contact page has whitespace after the footer | Set min-height for body to 100vh |
+| White Space was showing on the event section  | Added margin 0 to the div of the event section removed this |
+| Content overflow into different sections on mobile | Added min-height to sections to allow the section to grow with content on mobile |
+| Contrast issues with all images that has a text overlay | Added a opaque overlay to all images |
+| Bootstrap fixed-top nav bar was overlapping some content on pages | Set the body to have padding-top of 50px |
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
 1. In the GitHub repository navigate to the Settings tab
 2. On the left hand menu select Pages
 3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://4n4ru.github.io/CI_MS1_BodelschwingherHof/"
+4. After the webpage refreshes automatically you will se a ribbon on the top saying: "Your site is published at https://4n4ru.github.io/CI_MS1_BodelschwingherHof/"
 
 You can for fork the repository by following these steps:
 1. Go to the GitHub repository
