@@ -273,16 +273,16 @@ The website was tested on the following browsers:
 
 ### Testing user stories
 
-1. As a first time user, I want to know where the restaurant is lokated
+1. As a first time user, I want to know where the restaurant is located
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map | Navigate to the Contact Us page, locate the Google Map | Locating a map showing the location of the restaurant | Works as expected |
-| Footer - contact information section | On any page scroll down to the footer | Find the address of the restaurant | Works as expected |
+| Map | Scroll through homepage, locate the Google Map | Locating a map showing the location of the business | Works as expected |
+| Address | Select 'How to find us' |  Find the address of the restaurant | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1v1-12.jpg">
-<img src="docs/user-story-testing/user-story-1v2.jpg">
+<img src="docs/user-story-testing/testing-userstory-map-option-1.jpg">
+<img src="docs/user-story-testing/testing-userstory-map-option-2.jpg">
 </details>
 
 2. As a first time user, I want to know the price range
