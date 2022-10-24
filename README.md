@@ -338,7 +338,10 @@ Images not referenced below are owned by the developer.
 * [Event img 4](assets/images/rocker.webp): downloaded from <a href="https://elements.envato.com/male-singer-in-sunglasses-rock-band-TYEQBLN">Envato</a>
 * [Event img 5](assets/images/taco-tuesday.webp): downloaded from <a href="https://elements.envato.com/tacos-EUP92L7">Envato</a>
 
-
+### Code
+* Bootstrap was used in many areas of the website to make it responsive.
+* grid image system by Dcode on youtube
+* The contact/Map section a flex video was watched to understand how it works to implement this https://www.youtube.com/watch?v=JJSoEo8JSnc
 
 All imagery was taken from  Envato Elements(https://elements.envato.com/) and is credited in my code.
 
