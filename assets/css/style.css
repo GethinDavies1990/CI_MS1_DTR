@@ -4,6 +4,10 @@
 
 /* body */
 
+body {
+    padding-top: 50px;
+}
+
 .primary-heading {
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
