@@ -326,6 +326,19 @@ You can clone the repository by following these steps:
 Images not referenced below are owned by the developer.
 
 ### Images
+ * [hero image](assets/images/beer-hero.webp): downloaded from <a href="https://elements.envato.com/cheering-up-with-beer-W2GULE9">Envato</a>
+* [Testimonial image 1](assets/images/testimonial-1.webp): downloaded from <a href="https://elements.envato.com/elegant-confident-afro-american-businessman-in-gla-3MM44SJ">Envato</a>
+* [Testimonial image 2](assets/images/testimonial-2.webp): downloaded from <a href="https://elements.envato.com/portrait-of-a-beautiful-happy-young-woman-headshot-GX3QC6N">Envato</a>
+* [Our Story Carousel 1](assets/images/home-brewery.webp): downloaded from <a href="https://elements.envato.com/home-brew-74D8PZC">Envato</a>
+* [Our Story Carousel 2](assets/images/warehouse.webp): downloaded from <a href="https://elements.envato.com/empty-warehouse-74D8PZC">Envato</a>
+* [Our Story Carousel 3](assets/images/taproom.webp): downloaded from <a href="https://elements.envato.com/bar-pub">Envato</a>
+* [Event img 1](assets/images/beer-pour.webp): downloaded from <a href="https://elements.envato.com/side-view-of-mans-hands-that-fills-glasses-by-beer-9WWBNZZ">Envato</a>
+* [Event img 2](assets/images/beer-of-week.webp): downloaded from <a href="https://elements.envato.com/pale-beer-N4RX5NF">Envato</a>
+* [Event img 3](assets/images/comedy-night.webp): downloaded from <a href="https://elements.envato.com/friends-laughing-and-drinking-draft-beer-CDXETQA">Envato</a>
+* [Event img 4](assets/images/rocker.webp): downloaded from <a href="https://elements.envato.com/male-singer-in-sunglasses-rock-band-TYEQBLN">Envato</a>
+* [Event img 5](assets/images/taco-tuesday.webp): downloaded from <a href="https://elements.envato.com/tacos-EUP92L7">Envato</a>
+
+
 
 All imagery was taken from  Envato Elements(https://elements.envato.com/) and is credited in my code.
 
