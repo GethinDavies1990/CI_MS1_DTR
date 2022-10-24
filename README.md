@@ -99,7 +99,7 @@ Duck's Tap room is a craft brewery aimed at people in the craft beer scene. Each
 The webpage was designed to be easy to navigate and eye catching with a nice contrast of colors to appeal to the customer, it was made to be fully responsive on all devices. 
 
 ### Colour
-The color scheme chosen was to reflect the tap rooms mascot duck, with a nice bright shade of green and bright yellow. Which is both present on the mascot. I went for the 60%–30%–10% color scheme, (60%-yellow, 30%-charcoal, 10%-green) I mainly chose the color of yellow to be present for the main pages of the website and the dark charcoal was used in the navigation bar and the footer of the website. I used the green color in little instances so they really pop in certain areas we ma want to draw the user to.
+The color scheme chosen was to reflect the tap rooms mascot duck, with a nice bright shade of green and bright yellow. Which is both present on the mascot. I went for the 60%–30%–10% color scheme, (60%-yellow, 30%-charcoal, 10%-green) I mainly chose the color of yellow to be present for the main pages of the website and the dark charcoal was used in the navigation bar and the footer of the website. I used the green color in little instances so they really pop in certain areas we may want to draw the user to.
 <br>
 
 ![Colour scheme](docs/features/color-pallete.png)
@@ -112,13 +112,13 @@ Source Sans Pro was used for the mostly the p elements in the website
 
 ### Logo
 
-I found the logo of the duck online, and removed some parts which wasn't needed to make the logo 2 dimensional, I altered the colors to myself to match the tap rooms color pallette. the text on the logo was made by me using adobe illustrator.
+I found the logo of the duck online, and removed some parts which wasn't needed to make the logo 2 dimensional, I altered the colors myself to match the tap rooms color pallette. The text on the logo was made by myself using adobe illustrator.
 
 ![logo](docs/features/ducks-brew-ver.1.webp)
 
 ### Structure
 
-The page is structured to be user friendly and only had two pages the index page and the book a table page.
+The page is structured to be user friendly and only has two pages, the index page and the book a table page.
 The website consists of 2 separate pages with a total of 6 sections: 
 - The index page includes a hero section with a CTA(call to action) for the user to book a table
 - A Testimonial section so new users can see past experiences from other users while visiting the tap room.
@@ -186,7 +186,7 @@ links to the Homepage, our story, Events, how to find us section using the ID ta
 ![Testimonial](docs/features/testimonial.jpg)
 
 ### Our Story
-- Allowes users to see how the tap room was established and the growth it has undertaken up to the current year
+- Allows users to see how the tap room was established and the growth it has undertaken up to the current year
 
 ![Our Story](docs/features/our-story.jpg)
 
@@ -204,7 +204,7 @@ links to the Homepage, our story, Events, how to find us section using the ID ta
 ![How to Find us](docs/features/how-to-find-us.jpg)
 
 ### Book a Table
-- user is able to submit a form to reserve a space at he taproom
+- user is able to submit a form to reserve a space at the taproom
 
 ![Book a Table](docs/features/book-table.jpg)
 
@@ -234,7 +234,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 
 ### CSS Validation
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
-When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.1.2. When validating just my own custom CSS it passes with no errors found and some warnings associated to using root variables.
+When validating the page as a whole, the validator shows some errors linked to Bootstrap v5.1.2. When validating just my own custom CSS it passes with no errors found.
 <details><summary>style.css</summary>
 <img src="docs/validation/validation-css.jpg">
 </details>
@@ -249,7 +249,7 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
 <details><summary>Home</summary>
-<img src="docs/validation/accessibility-home.jpg">
+<img src="docs/validation/validation-lighthouse-index.jpg">
 </details>
 
 
