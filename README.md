@@ -271,6 +271,11 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="docs/validation/accessibility-home.jpg">
 </details>
 
+<details><summary>Book Table</summary>
+<img src="docs/validation/accessibility-home.jpg">
+</details>
+
+
 ### Performance 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. 
 
