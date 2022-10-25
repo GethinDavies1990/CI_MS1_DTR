@@ -272,8 +272,10 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 </details>
 
 <details><summary>Book Table</summary>
-<img src="docs/validation/accessibility-home.jpg">
+<img src="docs/validation/accessibility-book-table.jpg">
 </details>
+
+
 
 
 ### Performance 

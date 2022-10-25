@@ -460,6 +460,9 @@ footer h5 {
   color: #212121;
 }
 
+.sr-only {
+  color: #f2b613;
+}
 /* Media Queries */
 
 @media only screen and (max-width: 767px) {
