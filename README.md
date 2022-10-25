@@ -252,6 +252,10 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 <details><summary>Book Table</summary>
 <img src="docs/validation/validation-html-book-table.jpg">
 </details>
+<details><summary>404</summary>
+<img src="docs/validation/validation-html-404.jpg">
+</details>
+
 
 
 ### CSS Validation
