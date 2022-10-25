@@ -293,14 +293,30 @@ The website was tested on the following browsers:
 ### Testing user stories
 
 ## First-time User 
-1. As a first time user, I want to know where the tap room is located
-    * A user can find the location of the taproom by selecting the 'How to find us' link the navigation bar, and by scrolling through the homepage to the location of the map.
+
+1. As a first time user, I want to know where the taproom is located
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the how to find us section, locate the Google Map | Locating a map showing the location of the taproom | Works as expected |
+
 2. As a first time user, I want to know how to get in contact with the tap room
-    * A user can find out the contact information for the tap room by selecting the 'How to find us' link the navigation bar, and by scrolling through the homepage to the location of the contact information.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact information | Navigate to the how to find us section, locate the contact information | Locate the contact section to find relevant information | Works as expected |
+
 3. As a first time user, I want to know more about about the taproom
-    * A user can find out more information on the tap room by selecting the 'Our story' link in the navigation bar, and by scrolling to the 'Our Story' Section on the homepage.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Our Story Section | Navigate to the Our story section, | User has an introduction to how the tap room was established | Works as expected |
+
 4. As a first time user, I want to find out what events they have on
-    * A user can find out what events are scheduled on the given week by selecting the 'Events' link in the navigation bar, and by scrolling to the events section of the website.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Event Section | Navigate to the event section, | User has an overview of all the events running that week | Works as expected |
 
 ## Returning User
 5. As a returning user, I want to find a phone number to call to book a table
