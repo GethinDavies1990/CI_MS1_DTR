@@ -28,7 +28,7 @@ p {
 }
 
 .grey-background {
-  background-color: #212529;
+  background-color: #212121;
   color: #f2b613;
 }
 
@@ -96,7 +96,7 @@ h2 {
 .testimonial-section h2,
 h3,
 p {
-  color: #212529;
+  color: #212121;
 }
 
 .testimonial-section {
@@ -130,7 +130,7 @@ p {
   padding-top: 10px;
   font-size: 1em;
   font-style: italic;
-  color: #212529;
+  color: #212121;
 }
 
 /* Button's */
@@ -143,11 +143,11 @@ p {
   border-radius: 10px;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 600;
-  color: #212529;
+  color: #212121;
   font-size: 1.5em;
   background: #f2b613;
   padding: 12px 25px 12px 25px;
-  border: solid #212529 2px;
+  border: solid #212121 2px;
   text-decoration: none;
   margin-top: 30px;
   margin-left: 50px;
@@ -168,11 +168,11 @@ p {
   border-radius: 10px;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 600;
-  color: #212529;
+  color: #212121;
   font-size: 1.5em;
   background: #f2b613;
   padding: 12px 25px 12px 25px;
-  border: solid #212529 2px;
+  border: solid #212121 2px;
   text-decoration: none;
   margin-top: 10px;
   width: 100%;
@@ -235,7 +235,7 @@ p {
   padding-left: 50px;
   padding-top: 30px;
   padding-bottom: 30px;
-  color: #212529;
+  color: #212121;
 }
 
 /* Credit: grid image system by Dcode on youtube */
@@ -323,7 +323,7 @@ p {
   padding-left: 50px;
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #212529;
+  color: #212121;
 }
 
 .how-to-find-us-section h3 {
@@ -353,14 +353,14 @@ p {
 
 .form-header h1 {
   font-size: 2.5rem;
-  color: #212529;
+  color: #212121;
   text-align: center;
   padding-bottom: 30px;
   padding-top: 30px;
 }
 
 .form-container {
-  background-color: #212529;
+  background-color: #212121;
   width: 650px;
   color: #f2b613;
   text-align: center;
@@ -390,7 +390,7 @@ input:hover {
 /* Footer */
 
 .footer-section {
-  background-color: #212529;
+  background-color: #212121;
   align-items: center;
   min-height: 300px;
 }
@@ -452,12 +452,12 @@ footer h5 {
 
 .error-button {
   margin: 50px auto;
-  background-color: #212529;
+  background-color: #212121;
   color: #f2b613;
 }
 
 .error-button:hover {
-  color: #212529;
+  color: #212121;
 }
 
 /* Media Queries */
