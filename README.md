@@ -385,6 +385,16 @@ The website was tested on the following browsers:
 <img src="docs/user-story/user-story-testing-map.jpg">
 </details>
 
+ As a  user, I may navigate to a 404 page
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| error 404 | User navigates to a 404 page | lands on 404 page and has the option to go back to the homepage | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-404.jpg">
+</details>
+
 
 ## Bugs
 
