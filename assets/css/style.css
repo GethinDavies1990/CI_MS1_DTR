@@ -460,8 +460,8 @@ footer h5 {
   color: #212121;
 }
 
-.sr-only {
-  color: #f2b613;
+.error-text {
+  color: #212121;
 }
 /* Media Queries */
 
