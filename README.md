@@ -129,6 +129,8 @@ The website consists of 2 separate pages with a total of 6 sections:
 
 ### Wireframes
 
+#### Desktop
+
 <details><summary>Hero</summary>
 <img src="docs/wireframes/wf-hero.jpg">
 </details>
@@ -144,6 +146,17 @@ The website consists of 2 separate pages with a total of 6 sections:
 <details><summary>Footer</summary>
 <img src="docs/wireframes/wf-footer.jpg">
 </details>
+
+#### Mobile
+<details><summary>Mobile</summary>
+<img src="docs/wireframes/wf-mobile.jpg">
+</details>
+
+#### Tablet
+<details><summary>Tablet</summary>
+<img src="docs/wireframes/wf-tablet.jpg">
+</details>
+
 
 ## Technologies Used
 
