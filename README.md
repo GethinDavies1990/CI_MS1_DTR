@@ -320,15 +320,34 @@ The website was tested on the following browsers:
 
 ## Returning User
 5. As a returning user, I want to find a phone number to call to book a table
-    * As user can find the telephone number to call to book a table by either selecting the link 'Book table' in the navigation bar, or by scrolling to the contact info on the page.
+   
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact information | Navigate to the how to find us section, locate the contact information | Locate the contact section to find relevant information | Works as expected |
+
 6. As a returning user, I want to what events they have on
-    *  A user can find out what events are scheduled on the given week by selecting the 'Events' link in the navigation bar, and by scrolling to the events section of the website.
+
+ | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Event Section | Navigate to the event section, | User has an overview of all the events running that week | Works as expected |
+
 7. As a returning user, I want know what the brew of the week is
-    * A user can find out what the brew of the week is on the given week by selecting the 'Events' link in the navigation bar, and by scrolling to the events section of the website.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Event Section | Navigate to the event section, | User has an overview of what the brew of the week will be | Works as expected |
+
 8. As a returning user, I want to find the tap room social handles
-    * A user can find the all the social handles of the business by scrolling to the footer of the website, this is on all web pages.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer Section | Navigate to the footer section, | User has access to all the social handles of the business | Works as expected |
+
 9. As a returning user, I want to get directions to the tap room
-    * A user can find the location of the taproom by selecting the 'How to find us' link the navigation bar, and by scrolling through the homepage to the location of the map.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map | Navigate to the how to find us section, locate the Google Map | Locating a map showing the location of the taproom | Works as expected |
 
 
 ## Bugs
