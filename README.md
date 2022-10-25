@@ -275,9 +275,6 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="docs/validation/accessibility-book-table.jpg">
 </details>
 
-<details><summary>404 page</summary>
-<img src="docs/validation/accessibility-book-table.jpg">
-</details>
 
 
 ### Performance 
@@ -285,6 +282,10 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 <details><summary>Home</summary>
 <img src="docs/validation/validation-lighthouse-index.jpg">
+</details>
+
+<details><summary>Book Table</summary>
+<img src="docs/validation/validation-lighthouse-book-table.jpg">
 </details>
 
 
