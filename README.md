@@ -185,26 +185,31 @@ links to the Homepage, our story, Events, how to find us section using the ID ta
 - It allows users to easily navigate the page
 - The link for the page the user is currently on is highlighted in white, when the user scrolls over the other links the text will change color to highlight it is a clickable element.
 
+
 ![Nav Bar](docs/features/nav.jpg)
 
 ### hero
 - Introduces the user to the tap room with a image showcasing a business that has great atmosphere
 - Includes a CTA (Call to action) button for the user to book a table
+- User Stories covered: 5
 
 ![Hero Section](docs/features/hero.jpg)
 
 ### Testimonials
 - The user instantly see's some customer testimonials of recent visits.
+- User Stories covered: 3
 
 ![Testimonial](docs/features/testimonial.jpg)
 
 ### Our Story
 - Allows users to see how the tap room was established and the growth it has undertaken up to the current year
+- User Stories covered: 3
 
 ![Our Story](docs/features/our-story.jpg)
 
 ### Events
 - The events section was made using a grid system, each grid square offers a new event for that week.
+- User Stories covered: 3, 4, 6, 7
 
 ![Events](docs/features/events.jpg)
 
@@ -213,22 +218,26 @@ links to the Homepage, our story, Events, how to find us section using the ID ta
 - The user is also able to see the google map of the business
 - The user can get access to the contact information
 - The user can find out the telephone number and email address 
+- User Stories covered: 1, 2, 5, 9
 
 ![How to Find us](docs/features/how-to-find-us.jpg)
 
 ### Book a Table
 - user is able to submit a form to reserve a space at the taproom
+- User Stories covered: 5
 
 ![Book a Table](docs/features/book-table.jpg)
 
 ### Footer
 - Features the logo and social icons with links to their respected social media pages.
+- User Stories covered: 8
 
 ![Footer](docs/features/footer.jpg)
 
 
 ### Map
 - Shows the taproom location on an embedded Google Map
+- User Stories covered: 1, 9
 
 ![Map](docs/features/map.jpg)
 
