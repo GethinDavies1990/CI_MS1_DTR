@@ -275,7 +275,9 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 <img src="docs/validation/accessibility-book-table.jpg">
 </details>
 
-
+<details><summary>404 page</summary>
+<img src="docs/validation/accessibility-book-table.jpg">
+</details>
 
 
 ### Performance 

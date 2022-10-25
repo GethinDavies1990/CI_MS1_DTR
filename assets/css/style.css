@@ -441,13 +441,14 @@ footer h5 {
 /* Error 404 page */
 
 .error404-section {
-  height: 500px;
+  min-height: 400px;
   text-align: center;
 }
 
-.error404-section h1 {
+.error404-section h1, h2 {
   text-align: center;
   padding-top: 100px;
+  padding: 20px 20px;
 }
 
 .error-button {
