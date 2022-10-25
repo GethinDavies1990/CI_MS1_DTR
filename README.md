@@ -300,11 +300,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Map | Navigate to the how to find us section, locate the Google Map | Locating a map showing the location of the taproom | Works as expected |
 
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-map.jpg">
+</details>
+
 2. As a first time user, I want to know how to get in contact with the tap room
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact information | Navigate to the how to find us section, locate the contact information | Locate the contact section to find relevant information | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-contact.jpg">
+</details>
 
 3. As a first time user, I want to know more about about the taproom
 
@@ -312,11 +320,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Our Story Section | Navigate to the Our story section, | User has an introduction to how the tap room was established | Works as expected |
 
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-our-story.jpg">
+</details>
+
 4. As a first time user, I want to find out what events they have on
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Event Section | Navigate to the event section, | User has an overview of all the events running that week | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-events.jpg">
+</details>
 
 ## Returning User
 5. As a returning user, I want to find a phone number to call to book a table
@@ -325,11 +341,19 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Contact information | Navigate to the how to find us section, locate the contact information | Locate the contact section to find relevant information | Works as expected |
 
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-contact.jpg">
+</details>
+
 6. As a returning user, I want to what events they have on
 
  | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Event Section | Navigate to the event section, | User has an overview of all the events running that week | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-events.jpg">
+</details>
 
 7. As a returning user, I want know what the brew of the week is
 
@@ -337,17 +361,29 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Event Section | Navigate to the event section, | User has an overview of what the brew of the week will be | Works as expected |
 
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-events.jpg">
+</details>
+
 8. As a returning user, I want to find the tap room social handles
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer Section | Navigate to the footer section, | User has access to all the social handles of the business | Works as expected |
 
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-footer.jpg">
+</details>
+
 9. As a returning user, I want to get directions to the tap room
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Map | Navigate to the how to find us section, locate the Google Map | Locating a map showing the location of the taproom | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story/user-story-testing-map.jpg">
+</details>
 
 
 ## Bugs
