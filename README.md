@@ -146,15 +146,33 @@ The website consists of 2 separate pages with a total of 6 sections:
 <details><summary>Footer</summary>
 <img src="docs/wireframes/wf-footer.jpg">
 </details>
+<details><summary>Error 404</summary>
+<img src="docs/wireframes/wf-404-desktop.jpg">
+</details>
+<details><summary>Book Table</summary>
+<img src="docs/wireframes/wf-book-table-desktop.jpg">
+</details>
 
 #### Mobile
 <details><summary>Mobile</summary>
 <img src="docs/wireframes/wf-mobile.jpg">
 </details>
+<details><summary>404</summary>
+<img src="docs/wireframes/wf-404-mobile.jpg">
+</details>
+<details><summary>Book Table</summary>
+<img src="docs/wireframes/wf-book-table-mobile.jpg">
+</details>
 
 #### Tablet
 <details><summary>Tablet</summary>
 <img src="docs/wireframes/wf-tablet.jpg">
+</details>
+<details><summary>404</summary>
+<img src="docs/wireframes/wf-404-tablet.jpg">
+</details>
+<details><summary>Book Table</summary>
+<img src="docs/wireframes/wf-book-table-tablet.jpg">
 </details>
 
 
