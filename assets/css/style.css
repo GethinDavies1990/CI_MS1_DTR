@@ -405,11 +405,12 @@ input:hover {
   margin-right: auto;
 }
 
-footer h5 {
+footer h2 {
   color: #f2b613;
   font-size: 2.5em;
   padding-top: 20px;
   padding-bottom: 10px;
+  text-align: center;
 }
 
 .social {
@@ -444,7 +445,6 @@ footer h5 {
 
 .error-section {
   min-height: 400px;
-  text-align: center;
 }
 
 .error-section h1, h2 {
