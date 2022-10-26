@@ -445,6 +445,8 @@ footer h2 {
 
 .error-section {
   min-height: 400px;
+  align-items: center;
+  text-align: center;
 }
 
 .error-section h1, h2 {
