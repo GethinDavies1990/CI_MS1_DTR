@@ -66,13 +66,14 @@ p {
   position: absolute;
   height: 100%;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
   margin-right: 0;
 }
 
 .callout h1,
 h2 {
   color: #f2b613;
+  text-align: left;
 }
 
 .callout h1 {
@@ -236,6 +237,7 @@ p {
   padding-top: 30px;
   padding-bottom: 30px;
   color: #212121;
+  text-align: left;
 }
 
 /* Credit: grid image system by Dcode on youtube */
@@ -440,13 +442,12 @@ footer h5 {
 
 /* Error 404 page */
 
-.error404-section {
+.error-section {
   min-height: 400px;
   text-align: center;
 }
 
-.error404-section h1, h2 {
-  text-align: center;
+.error-section h1, h2 {
   padding-top: 100px;
   padding: 20px 20px;
 }
