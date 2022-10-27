@@ -20,16 +20,16 @@ p {
 }
 
 .yellow-section {
-  background-color: #f2b613;
+  background-color: #ffeb2a;
 }
 
 .text-yellow {
-  color: #f2b613;
+  color: #ffeb2a;
 }
 
 .grey-background {
   background-color: #212121;
-  color: #f2b613;
+  color: #ffeb2a;
 }
 
 /* Nav */
@@ -40,7 +40,7 @@ p {
 }
 
 .nav-item a {
-  color: #f2b613;
+  color: #ffeb2a;
   font-size: 1rem;
   margin-right: 25px;
 }
@@ -72,7 +72,7 @@ p {
 
 .callout h1,
 h2 {
-  color: #f2b613;
+  color: #ffeb2a;
   text-align: left;
 }
 
@@ -146,7 +146,7 @@ p {
   font-weight: 600;
   color: #212121;
   font-size: 1.5em;
-  background: #f2b613;
+  background: #ffeb2a;
   padding: 12px 25px 12px 25px;
   border: solid #212121 2px;
   text-decoration: none;
@@ -171,7 +171,7 @@ p {
   font-weight: 600;
   color: #212121;
   font-size: 1.5em;
-  background: #f2b613;
+  background: #ffeb2a;
   padding: 12px 25px 12px 25px;
   border: solid #212121 2px;
   text-decoration: none;
@@ -201,14 +201,14 @@ p {
   padding-bottom: 30px;
   padding-top: 10px;
   font-size: 2.8rem;
-  color: #f2b613;
+  color: #ffeb2a;
   position: relative;
   backdrop-filter: blur(2px);
 }
 
 .our-story-caption h4 {
   font-size: 1.8rem;
-  color: #f2b613;
+  color: #ffeb2a;
   padding-bottom: 5px;
   font-weight: bold;
 }
@@ -216,7 +216,7 @@ p {
 .our-story-caption p {
   font-size: 1.3rem;
   font-style: italic;
-  color: #f2b613;
+  color: #ffeb2a;
   padding-bottom: 50px;
   font-weight: bold;
 }
@@ -325,12 +325,12 @@ p {
 }
 
 .how-to-find-us-section h3 {
-  color: #f2b613;
+  color: #ffeb2a;
   padding-bottom: 10px;
 }
 
 .tel-number {
-  color: #f2b613;
+  color: #ffeb2a;
   font-weight: bold;
 }
 
@@ -346,7 +346,7 @@ p {
 
 .form-section {
   min-height: 1000px;
-  background-color: #f2b613;
+  background-color: #ffeb2a;
 }
 
 .form-header h1 {
@@ -360,7 +360,7 @@ p {
 .form-container {
   background-color: #212121;
   width: 650px;
-  color: #f2b613;
+  color: #ffeb2a;
   text-align: center;
   margin: 0 auto;
   border-radius: 10px;
@@ -377,7 +377,7 @@ p {
 }
 
 .email {
-  color: #f2b613;
+  color: #ffeb2a;
   font-weight: bold;
 }
 
@@ -387,7 +387,7 @@ input {
 }
 
 input:hover {
-  border-color: #f2b613;
+  border-color: #ffeb2a;
 }
 
 /* Footer */
@@ -407,7 +407,7 @@ input:hover {
 }
 
 .footer-section h2 {
-  color: #f2b613;
+  color: #ffeb2a;
   font-size: 2.5em;
   padding-top: 20px;
   padding-bottom: 10px;
@@ -415,7 +415,7 @@ input:hover {
 }
 
 .footer-section p {
-  color: #f2b613;
+  color: #ffeb2a;
 }
 
 .social {
@@ -423,7 +423,7 @@ input:hover {
 }
 
 .social-links {
-  color: #f2b613;
+  color: #ffeb2a;
   font-weight: bold;
   font-size: 18pt;
   padding-top: 10px;
@@ -463,7 +463,7 @@ input:hover {
 .error-button {
   margin: 50px auto;
   background-color: #212121;
-  color: #f2b613;
+  color: #ffeb2a;
 }
 
 .error-button:hover {
