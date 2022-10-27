@@ -203,6 +203,7 @@ p {
   font-size: 2.8rem;
   color: #f2b613;
   position: relative;
+  backdrop-filter: blur(2px);
 }
 
 .our-story-caption h4 {
