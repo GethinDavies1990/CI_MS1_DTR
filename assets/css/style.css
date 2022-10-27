@@ -375,6 +375,11 @@ p {
   padding-bottom: 10px;
 }
 
+.email {
+  color: #f2b613;
+  font-weight: bold;
+}
+
 input {
   border: 3px solid #68ba88;
   border-radius: 6px;
@@ -418,6 +423,7 @@ input:hover {
 
 .social-links {
   color: #f2b613;
+  font-weight: bold;
   font-size: 3em;
   padding-top: 10px;
   padding-bottom: 20px;
