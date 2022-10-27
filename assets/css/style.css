@@ -196,23 +196,17 @@ p {
   filter: brightness(0.2);
 }
 
-.our-story-caption h3,
-h4,
-p {
-  color: #f2b613;
-}
-
 .our-story-caption h3 {
   padding-bottom: 30px;
   padding-top: 10px;
   font-size: 2.8rem;
-  color: #f2b613;
+  color: #fff;
   position: relative;
 }
 
 .our-story-caption h4 {
   font-size: 1.8rem;
-  color: #f2b613;
+  color: #fff;
   padding-bottom: 5px;
   font-weight: bold;
 }
@@ -220,7 +214,7 @@ p {
 .our-story-caption p {
   font-size: 1.3rem;
   font-style: italic;
-  color: #f2b613;
+  color: #fff;
   padding-bottom: 50px;
   font-weight: bold;
 }
