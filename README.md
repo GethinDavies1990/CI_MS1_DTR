@@ -284,7 +284,7 @@ When validating the page as a whole, the validator shows some errors linked to B
 </details>
 
 ### Accessibility
-The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 errors.
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All pages pass with 0 alerts, some pages had a few contrast errors for the text that overlays the images.
 <details><summary>Home</summary>
 <img src="docs/validation/accessibility-home.jpg">
 </details>
