@@ -186,6 +186,7 @@ p {
 
 /* Our Story Carousel */
 
+
 .our-story-item {
   height: 500px;
 }
@@ -200,13 +201,13 @@ p {
   padding-bottom: 30px;
   padding-top: 10px;
   font-size: 2.8rem;
-  color: #fff;
+  color: #f2b613;
   position: relative;
 }
 
 .our-story-caption h4 {
   font-size: 1.8rem;
-  color: #fff;
+  color: #f2b613;
   padding-bottom: 5px;
   font-weight: bold;
 }
@@ -214,7 +215,7 @@ p {
 .our-story-caption p {
   font-size: 1.3rem;
   font-style: italic;
-  color: #fff;
+  color: #f2b613;
   padding-bottom: 50px;
   font-weight: bold;
 }
